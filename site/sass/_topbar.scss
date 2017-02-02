@@ -1,0 +1,91 @@
+.header {
+  background: $mid-gray;
+  color: #fff;
+  height: 60px;
+  @include cf();
+  &__inner {
+    @include center();
+  }
+  &__title {
+    @include col(12/12);
+    @media #{$large-viewport} {
+      @include col(9/12);
+    }
+
+  }
+  h1 {
+    font-size: 1.2em;
+    padding: $padding-base 0 $padding-base 10px;
+    span {
+      font-weight: 700;
+      display: inline-block;
+      padding-left: .5em;
+    }
+  }
+  &__nav {
+    height: 60px;
+    background: $mid-gray;
+    @include col(12/12);
+    margin-bottom: $padding-base;
+    @media #{$large-viewport} {
+      @include col(3/12);
+      margin-bottom: 0;
+    }
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: table;
+      width: 100%;
+    }
+    li {
+      display: table-cell;
+      width: 33.3%;
+      padding-right: 4px;
+      &:last-child {
+        padding-right: 10px;
+      }
+    }
+    a {
+      display: block;
+      text-align: center;
+      border-bottom-width: 10px;
+      border-bottom-style: solid;
+      text-transform: uppercase;
+      color: #fff;
+      font-size: 1.1em;
+      text-decoration: none;
+      height: 60px;
+      box-sizing: border-box;
+      padding-top: 16px;
+      transition: border-bottom-width 200ms;
+      &:hover {
+        border-bottom-width: 16px;
+      }
+      &.current {
+        border-bottom-width: 0;
+      }
+    }
+  }
+}
+
+.header__link--work {
+  border-color: $link-color-work-lt;
+  &.current {
+    background-color: $link-color-work-lt;
+  }
+}
+
+.header__link--blog {
+  border-color: $link-color-blog;
+  &.current {
+    background-color: $link-color-blog;
+  }
+}
+
+.header__link--about {
+  border-color: $link-color-about;
+  &.current {
+    background-color: $link-color-about;
+  }
+}

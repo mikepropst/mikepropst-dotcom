@@ -1,0 +1,17 @@
+Title: Dashboard
+
+----
+
+Caption: The opening screen with portfolio highlights, news and onboarding help.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/1-d-b-credit/overview.png
+
+----
+
+Sort: 1
+
+----
+
+Includeingallery: 1

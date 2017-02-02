@@ -1,0 +1,39 @@
+Title: Cut off the head
+
+----
+
+Text: [More of the same old stuff](http://alistapart.com/article/let-links-be-links). I remember sitting next to Gavin at SXSW, probably a decade ago, and hearing  a similar story. Everything needs to work for a Javascript-disabled client.
+
+There is a fundamental split in front-end-land over "web applications" right now. One side leans heavily on the "application" half of the term. The other side laments the loss of what "web" used to mean. 
+
+I'm as frustrated as anyone at how some frameworks treat URLs. It does make development tougher. But letting links be links means they have to *go* somewhere. These applications do not have the concept of different locations. You don't "navigate" among "pages."
+
+I also believe strongly in progressive enhancement. You want your content or functionality to be available.
+
+But there's a bar, and everyone decides where it is. Some folks are making content for the web. Others — despite what Mr. Penman says about browser splintering — are delivering relatively universal software.
+
+The Patreon example is a good one. Patreon should want the greatest level of access. Denying access means creators will miss out on money. For A List Apart, yes, I should be able to suck the data (content) into Pocket. Denying that means denying me the content of the site. They can't deny the content because that's what they're offering.
+
+What does my company offer? A piece of software with a lot of functionality. Most of that functionality could be handled by web forms, yes. But many of our customers came from our boxed products; they're already skeptical of a web offering. I can't endorse kneecapping the software to allow for... what exactly? Is it so Richard Stallman can view my website? We don't have a *website*. The web is a medium. It's a platform. And Javascript is part of that platform.
+
+At some point you make a decision. Are we leaving money, value, or the good of humanity on the table by cutting off certain types of web clients to our offering? Or are we maximizing the experience for the people we hope to help?
+
+----
+
+Summary: Does our stuff need to work without Javascript?
+
+----
+
+Tags: front end,design,UX
+
+----
+
+Posttype: editorial
+
+----
+
+Postlink: 
+
+----
+
+Date: 2015-08-03

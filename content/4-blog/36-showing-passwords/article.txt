@@ -1,0 +1,29 @@
+Title: Showing passwords
+
+----
+
+Text: Luke Wroblewski [on login screens](http://www.lukew.com/ff/entry.asp?1941):
+
+> Quite quickly I came to see password-masking as a rut. A design pattern that has been around so long that no one thinks about it much. We all just go through the motions when assembling a log-in screen and add password-masking by default. Lost business and usability issues just come along for the ride.
+
+Really makes u think.
+
+----
+
+Posttype: short
+
+----
+
+Tags: UX
+
+----
+
+Summary: Should we really mask passwords on login screens?
+
+----
+
+Postlink: 
+
+----
+
+Date: 2015-06-11

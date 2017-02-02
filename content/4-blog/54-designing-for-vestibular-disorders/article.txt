@@ -1,0 +1,24 @@
+Title: Designing animations for vestibular disorders 
+
+----
+
+Text: With any new web technology fun times, the first thing to go is accessibility. Of course, in this case, we're talking about a disability that the Web never triggered before.
+----
+
+Summary: 
+
+----
+
+Tags: UX, accessibility
+
+----
+
+Posttype: link
+
+----
+
+Postlink: http://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity
+
+----
+
+Date: 2015-09-15

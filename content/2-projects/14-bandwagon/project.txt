@@ -1,0 +1,21 @@
+Title: Bandwagon iPhone App
+
+----
+
+Text: Bandwagon was an iPhone application for coordinating short-notice meetups that predated Apple's Find My Friends. Ultimately, location services were not what they are now, background processes didn't really exist, and battery life hurt the application as well. But having an SMS and web app component helped us with the problem of syncing users without the app installed, and would've hopefully aided adoption.
+
+----
+
+Roles: Product Strategy,Information Architecture,Visual Design
+
+----
+
+Blurb: Location sharing that was unfortunately ahead of its time
+
+----
+
+Company: Humidity Labs
+
+----
+
+Tools: Photoshop,OmniGraffle

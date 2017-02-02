@@ -1,0 +1,13 @@
+Title: Dashboard
+
+----
+
+Caption: From the dashboard, users could track the views on their hosted resume, field messages from prospective employers, and look at the latest Indeed and Careerbuilder listings.
+
+----
+
+Linkurl: /content/2-projects/11-emurse/01-dashboard.png
+
+----
+
+Includeingallery: 1

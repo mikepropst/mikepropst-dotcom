@@ -1,0 +1,73 @@
+Title: D&B Direct
+
+----
+
+Company: Dun & Bradstreet
+
+----
+
+companyimg: dnb.jpg
+
+----
+
+Text:
+
+#### Problem
+The D&B Direct product is actually a piecemeal API — a unique product in our space that most salespeople at Dun & Bradstreet weren’t trained to sell and no website at the company did an adequate job of explaining.
+
+There were numerous problems. First, the website had three audiences: the buyer of the product, the developer who would use it, and the D&B salesperson who used the site as a guide. Secondly, we could document the product but not fix its core issues. The API itself was not structured intuitively and features were sold in packages that developers generally found confusing. And finally, the existing website was a collection of assets that didn’t do a fantastic job of explaining the product, and we didn’t have the resources to make a lot of new ones.
+
+#### Process: the website
+Along with our user researcher, I joined the small team of architects and developers in D&B’s SparkLab to design for a product that most of our designers didn’t really want to touch.
+
+For the website, we roped in one of our product UI designers. Normally, the marketing team would head up a front-facing website project, but the app team had a better understanding of product capabilities. This gives the site a less flashy appearance than others, but it focuses on delivering abstract information in a (hopefully) understandable way.
+
+We decided to organize the site via use cases. Even those customers who could grasp Direct’s concept were understandably at a loss for *what to do with the product*. The “use case” model helped explain what the product configurations were and helped generate ideas for the customers.
+
+On the front page, we built a simple “use case chooser” to help direct viewers to potential solutions. From there, the existing diagrams from print brochures did an adequate, but admittedly still sometimes confusing job explaining their purposes.
+
+Ultimately, user testing revealed an improvement in the process, but all D&B websites suffer from the unavoidable truth that customers can't purchase online and salespeople have to be involved. Bonus, though: the Direct site was one of the first web properties at D&B to be fully responsive. It was built on top of Bootstrap 3.
+
+#### Process: the docs
+While the transition from *customer* (CTO or other semi-technical but business-minded user) to the *consumer* (developer) could’ve been smoother, the actual documentation was where we really had a chance to improve the experience.
+
+One of the biggest problems with the documentation was the structure of the API. Naming conventions were odd, organization was unintuitive, and developers often found that the features they needed hadn’t been purchased — but they couldn’t discover that until they tried unsuccessfully to use those features.
+
+User interviews with developers were very enlightening. Unlike some users, programmers don’t pull punches.
+
+After understanding their needs with some affinity mapping and recognizing what we could and couldn’t do (some needs could only truly be met by a product redesign that just wasn’t going to happen) we looked to great examples of API docs available, and tried to adapt some key concepts to our more complex architecture.
+
+We tried for a very long time to find the patterns in each API feature in order to standardize how those features were documented. All ideas ended up with unfortunate exceptions to the pattern, but we finally settled on one that yielded the fewest. The left rail is used for auto-expanding navigation, and the third column has code samples. In the center column, each feature includes:
+
+* Summary
+* Full list of options in a table
+* Request (with code samples)
+* Response (with sample results)
+
+#### Results
+Considering that no one is ever going to get great joy from reading an API documentation site, the new docs led to one of the most pleasant user-testing experiences I’ve ever had.
+
+Design was not an easy process at all. Our whiteboarding sessions were stressful. We were generally on the same page, but no solutions were easy and they all felt overly reliant on compromises we didn’t want to make. The researcher and I had to learn more about APIs and advanced code than we’d ever expected to, and it was hard to juggle that information with our standard user experience goals.
+
+So when we conducted some basic tests and found that developers had a much easier time getting the information they needed, it felt like a massive win. Developers no longer felt confused and abandoned.
+
+Maybe best of all, other technical products at D&B were fitted to our framework. Along with the broader design language and style guide efforts that my team were making across the product landscape at the company, now the technical docs were standardized as well. It was a magical confluence of cost and time savings in development, design, and maintenance efforts, and at the same time it served the target users much better than the old docs site.
+
+#### What I learned
+ At times, our “war room” felt like a torture chamber where sticky notes and marker fumes were the instruments of pain instead of thumbscrews, but there’s no better feeling than emerging from a hard session with a real solution.
+
+Developers are often overlooked as users. I think there’s a different reason than with other types of users. Often the people we design for are proficient in something other than computers (at D&B, that was financial risk analysis), but not super tech-savvy. With developers, it’s a unique challenge. Here are people we work with daily, whom we see as technical wizards and sometimes collaborators. As a designer, putting yourself in a developer’s shoes can be incredibly difficult. But of all the under-appreciated users I’ve worked for, they might’ve been the most rewarding audience I ever served.
+
+The Direct site can be seen at [http://developer.dnb.com](http://developer.dnb.com) and the docs are at [http://docs.dnb.com](http://docs.dnb.com)
+
+----
+
+Roles: Prototyping,User Research,Interaction Design
+
+----
+
+Tools: User Interviews,Design workshop,Affinity mapping,HTML/CSS
+
+----
+
+Blurb: Remembering to treat technical users as users

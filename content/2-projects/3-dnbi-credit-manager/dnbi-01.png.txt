@@ -1,0 +1,13 @@
+Title: Credit Application Designer
+
+----
+
+Caption: A dynamic form-builder that helps users put together the trade credit application.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/3-dnbi-credit-manager/dnbi-01.png
+
+----
+
+Includeingallery: 1

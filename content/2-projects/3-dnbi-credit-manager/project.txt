@@ -1,0 +1,47 @@
+Title: DNBi Credit Manager 3.0
+
+----
+
+Blurb: Using design thinking to save a venerable product
+
+----
+
+Company: Dun & Bradstreet
+
+----
+
+companyimg: dnb.jpg
+
+----
+
+Roles: Design coaching,Interaction design,Prototyping,User testing
+
+----
+
+Tools: 53 Paper,Stormboard,Affinity mapping,User interviews,Design workshop,Adobe Fireworks,Axure RP,HTML/CSS/JQuery
+
+----
+
+Text: ####Problem
+Dun & Bradstreet’s DNBi had been the cash cow for many years, but lack of updates and an aging UI were increasing attrition to a dangerous level.
+
+####Process
+In many ways, this project benefited from a "nothing to lose" or "we've tried everything" attitude on the part of product management, so it was open to methods that the company really hadn't explored before. In a tag team between Austin's User Experience and Design department and New Jersey's Innovation Lab, we approached it with methods outlined in Luma Institute's Human Centered Design and the book *Lean UX*. The most important fundamental principles here were tons of user validation and cross-functional participation in design thinking.
+
+####Discovery interviews and remote design studio
+All participants, from 4 different D&B locations, participated in and re-read notes from discovery interviews. These were conducted with a cross-section of Credit Manager customers. From the results, we first performed an Affinity Map using [Stormboard's](https://stormboard.com/) realtime tools, which are a great substitute for sticky notes when you can't be in a room together. From those affinities, we discovered right off the bat that product management's initial instincts were way off: we were setting out to build the wrong thing.
+
+After the course correction that we were fortunate such a large company would allow, we set out to designing our features. For this, we directed the cross-functional team in a [design studio](http://www.uie.com/articles/design_studio_methodology/). This is another tough one for remote teams, but we performed it using 53's [Paper app](https://www.fiftythree.com/paper) and Dropbox. Non-designers had a lot of fun and contributed great ideas.
+
+From there, it was all rinse, lather, repeat on small cycles as the Lean UX methodology recommends — in other words, validate, design, validate, design, validate. Quickly.
+
+####Moving to higher fidelity
+Initially, static high fidelity wireframes were produced in Adobe Fireworks, but it became clear pretty quickly that static wires weren't going to cut it for demonstrating the interaction we needed to design. Axure RP was explored until we realized, even more quickly, that a person fluent in JQuery could knock something out more easily. That was me, and as an added benefit, it was easier to incorporate the visual style of the existing application for added realism.
+
+####Results
+The tests went well and new feature measurably bolstered the application. Our next project turned out to be a complete ground-up redesign of DNBi, but given the time that was going to take, this was more than just a band-aid. It kept the ship afloat for a couple more years.
+
+####What I learned
+D&B are a great corporation who are truly learning how to value their users and their UX people. This project was a huge part of that perspective shift. And for all the great work that went into what we eventually built, the thing that may have saved the day was *not building the wrong thing.* That would never have happened had we not been constantly validating with users and putting them first. A product manager told me later it had been so refreshing to build something that customers wanted to buy rather than telling them what they *should* buy. That is something that we constantly preach in UX, but to see it happen for real... it was invaluable.
+
+For my part, I also learned that collaborative exercises can happen remotely even with large groups at large companies. But most importantly, because of that collaboration, I know the feeling of helping people who really "don't understand" UX participate in design studios and generate amazing ideas — then have those ideas tested and implemented. It's as satisfying as generating a great idea myself. It creates a great team feeling and ultimately, stronger ideas and better software.

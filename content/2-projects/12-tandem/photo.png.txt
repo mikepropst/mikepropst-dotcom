@@ -1,0 +1,17 @@
+Sort: 10
+
+----
+
+Title: Photo View
+
+----
+
+Caption: The view of individual photos and where on the map they're located.
+
+----
+
+Linkurl: http://mikepropst.dev/content/2-projects/12-tandem/photo.png
+
+----
+
+Includeingallery: 1

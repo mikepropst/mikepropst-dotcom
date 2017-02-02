@@ -1,0 +1,13 @@
+Title: Choose Résumé Design
+
+----
+
+Caption: Users could choose from a number of templates that would translate not just to the hosted version, but to downloaded versions in PDF, Word, OpenOffice and other formats.
+
+----
+
+Linkurl: /content/2-projects/11-emurse/03-resume-design.png
+
+----
+
+Includeingallery: 1

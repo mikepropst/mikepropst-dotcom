@@ -1,0 +1,13 @@
+Title: Track Friends
+
+----
+
+Caption: The primary view during the meetup process was a map where each friend and the final destination were shown
+
+----
+
+Linkurl: /content/2-projects/14-bandwagon/05-map.png
+
+----
+
+Includeingallery: 1

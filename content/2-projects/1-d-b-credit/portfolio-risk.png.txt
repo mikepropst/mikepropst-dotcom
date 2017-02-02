@@ -1,0 +1,17 @@
+Title: Portfolio Risk
+
+----
+
+Caption: Shows the risk of a user's entire portfolio of companies at a glance. Most cards can be drilled into to get a detailed list of the companies that affect the charts.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/1-d-b-credit/portfolio-risk.png
+
+----
+
+Sort: 7
+
+----
+
+Includeingallery: 1

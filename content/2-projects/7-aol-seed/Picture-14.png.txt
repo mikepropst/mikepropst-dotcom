@@ -1,0 +1,13 @@
+Title: User Profile
+
+----
+
+Caption: User can edit more detailed profile information and set granular preferences for notification of new assignments in areas of interest.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-14.png
+
+----
+
+Includeingallery: 1

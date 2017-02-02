@@ -1,0 +1,13 @@
+Title: Dashboard
+
+----
+
+Caption: From here, the admin can see all the content coming in from freelance authors and all of the outgoing assignments from editors.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/8-aol-seed-admin/greenhouse1.png
+
+----
+
+Includeingallery: 1

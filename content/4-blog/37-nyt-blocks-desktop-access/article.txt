@@ -1,0 +1,25 @@
+Title: NYT blocks desktop access
+
+----
+
+Text: This is how you show you mean business on mobile-first.
+
+----
+
+Tags: responsive
+
+----
+
+Posttype: link
+
+----
+
+Postlink: http://thenextweb.com/opinion/2015/06/12/the-new-york-times-wisely-blocks-staff-from-viewing-its-desktop-homepage/
+
+----
+
+Summary: 
+
+----
+
+Date: 2015-06-12

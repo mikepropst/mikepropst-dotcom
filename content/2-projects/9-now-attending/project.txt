@@ -1,0 +1,45 @@
+Title: Now Attending
+
+----
+
+Blurb: Connected events and wild scope
+
+----
+
+Text: Sometimes, in the course of an experimental project, you wind up doing something that would normally be unthinkable or impractical in a "real-world" scenario. Such is the case with the idea of putting a big screen at an event to break the ice using social media.
+
+The reasoning starts along these lines. *How will we get the data?* The answer is, of course, from Facebook. But how would we get anyone to deliver their information, ahead of time, to our application?
+
+Well, these participants will all be guests at an event, so maybe we attach the social permissions to an RSVP mechanism. And thus the Now Attending RSVP website was born.
+
+The logical step here is not to waste the potential of having RSVP data, and sell your host on the potential to invite and manage their guests. We had hoped to do for Evite what we had, on a small scale, done for Monster with the success of Emurse.
+
+That being built, we circled around to the original intent of the big screen, and the interaction with it. If Now Attending had an elevator pitch in its original form, it would be a modern replacement for the disposable cameras that are so prevalent at wedding receptions. 
+
+At this point, we were approaching a deadline (beta user's wedding) and "MVP" was a term that caused the team to explode in uproarious laughter, so iOS and Android versions were built and released. 
+
+The first wedding went incredibly well, and a whole lot of people wanted to know how to get the big screen and photo app at their event. But that proved to be the only effective way to not just sell the package, but even *explain* it. The connectivity is great, the features are powerful, and the real-world component gives guests a feeling that software can rarely provide.
+
+####Technology
+
+The big screen, arguably the most interesting single part of the suite, was built as a web app using HTML5 and websockets. It only worked reliably on Chrome, but it was rich, animated, realtime, and never once crashed the browser at an event.
+
+####Postmortem
+
+We had one major problem with Now Attending: the size. The scope was hard to manage with our small team, and the prospect was almost impossible to sell to customers. 
+
+Given a do-over, I'd probably release the screen and accompanying app, with the Facebook connection happening in the app itself. Then, gradually, the RSVP features could be rolled out — first from the guest side, then the admin. Then, finally, those admin features could be added to the mobile app.
+
+Despite the product issues, Now Attending is still a well-made suite of applications that presented new challenges for every device type. It taught me — and the team — a lot about dealing with users in a new context.
+
+----
+
+Company: Humidity Labs
+
+----
+
+Roles: Information Architecture,Interaction Design,UI Design,Front End
+
+----
+
+Tools: Photoshop,HTML/CSS/JQuery

@@ -1,0 +1,25 @@
+Title: Timber and Twig Reignited my Love for WordPress
+
+----
+
+Text: From CSS-Tricks. "Love" is a strong word, but Timber does bring the process of theming for WordPress up to the level of just about anything else.
+
+----
+
+Summary: 
+
+----
+
+Tags: front end,wordpress
+
+----
+
+Posttype: link
+
+----
+
+Postlink: https://css-tricks.com/timber-and-twig-reignited-my-love-for-wordpress/
+
+----
+
+Date: 2015-08-26

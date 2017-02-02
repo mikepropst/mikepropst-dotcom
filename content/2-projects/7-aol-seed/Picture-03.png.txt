@@ -1,0 +1,13 @@
+Title: User Dashboard
+
+----
+
+Caption: Proposed idea for a user's home. We used features from the internal CMS to gauge what people might want to see and track.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-03.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,24 @@
+Title: Editing images in CSS
+
+----
+Text: It's now possible to do some really cool image effects in CSS. They can even be used for optimization purposes. Unfortunately IE is, as usual, holding things back.
+
+----
+
+Summary: 
+
+----
+
+Tags: css
+
+----
+
+Posttype: link
+
+----
+
+Postlink: http://www.thedotpost.com/2015/12/una-kravets-editing-images-in-css
+
+----
+
+Date: 2015-02-03

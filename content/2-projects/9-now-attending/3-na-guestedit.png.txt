@@ -1,0 +1,13 @@
+Title: Guest Editing
+
+----
+
+Caption: Hosts can manually change the information or attending status of guests from here. Especially useful for Grandma who doesn't have an email address.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/9-now-attending/3-na-guestedit.png
+
+----
+
+Includeingallery: 1

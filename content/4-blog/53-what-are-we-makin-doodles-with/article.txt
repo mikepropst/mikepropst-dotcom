@@ -1,0 +1,24 @@
+Title: What are we makin' doodles with?
+
+----
+
+Text: Khoi Vinh published the results of a pretty interesting survey on the tools that designers are using in various disciplines of website and software creation. No surprises here. Sketch is creeping up on the mighty (and mighty expensive/bloated) Photoshop.
+----
+
+Summary: 
+
+----
+
+Tags: UI, UX, tools, software
+
+----
+
+Posttype: link
+
+----
+
+Postlink: http://tools.subtraction.com/index.html
+
+----
+
+Date: 2015-09-14

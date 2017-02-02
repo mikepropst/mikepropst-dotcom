@@ -1,0 +1,52 @@
+Title: D&B Credit
+
+----
+
+Company: Dun & Bradstreet
+
+----
+
+Companyimg: dnb.jpg
+
+----
+
+Text: 
+
+#### The Problem
+By 2012, the product landscape at D&B was convoluted, inconsistent, hard to sell, and not based on real customer insight. Literally hundreds of different products made for a confusing and hard to manage portfolio. The flagship product, *DNBi*, was long in the tooth and needed to be replaced, but there was uncertainty about whether a 1:1 replacement or something very different would be needed.
+
+#### The Process
+
+This was one of the largest undertakings in the history of D&B's software. In addition to replacing the venerable DNBi, D&B Credit incorporated features from many of the other small specialized software products that needed to be replaced and consolidated. First steps involved establishing who those existing customers were, and what they actually needed. As a result, we started the process by gathering information from previous persona research and conducting numerous interviews.
+
+The personas (click for larger):  
+<div class="personas-display">
+(image: na-creditmanager-detective.jpg link:na-creditmanager-detective.jpg)
+(image: na-creditanalyst.jpg link:na-creditanalyst.jpg)
+(image: na-smallbusiness.jpg link:na-smallbusiness.jpg)
+(image: na-creditmanager-2.jpg link:na-creditmanager-2.jpg)
+</div>
+
+From the research, we created personas and ran a number of workshops. From affinity maps to design studios, some handled remotely with British product teams (often using the Mural remote whiteboard tool), we completed a number of rapid cycles of design and validation with both paper prototypes and interactive Axure prototypes at multiple fidelity levels. The rapid cycle process was influenced by Luma Institute training from Maya and by *Lean UX,* and it was proven successful by a [smaller upgrade to DNBi](http://mikepropst.com/projects/dnbi-credit-manager) a few months earlier.
+
+Research and validation determined that though the numbers and means to achieving customer happiness might be complex, at the core there were really only a few use cases. Customers wanted to easily find companies to do research, add them to their portfolio, and monitor their portfolio of companies in a proactive, "smart" way. Thus, early on we were able to throw out complexity that wasn't directly related to those tasks — and throw out the complexity related to other tasks that customers really didn't find valuable.
+
+As final UI designs were completed, the design team created a style guide as well as customized Bootstrap Less files to deliver to developers to specify colors, spacing, typography and the rest of the visual language.
+
+#### Results
+D&B Credit would not have been possible without also initiating a cultural change from inside the company. Design thinking and customer centricity permeated most of the product department by the time the software was rolled out. The resulting tool potentially solves more credit risk evaluation problems than any of the numerous little tools it replaces, and does it more elegantly than its mega-predecessor DNBi.
+
+#### Commercial
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/HmgVaN50FP0' frameborder='0' allowfullscreen></iframe></div>
+
+----
+
+Roles: Information Architecture,Information Design,User Research,User testing
+
+----
+
+Tools: Axure RP,Design workshop,Affinity mapping,Personas
+
+----
+
+Blurb: Complete overhaul of an entire product line

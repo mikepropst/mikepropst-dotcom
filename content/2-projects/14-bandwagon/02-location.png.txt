@@ -1,0 +1,13 @@
+Title: Start a Location Share
+
+----
+
+Caption: Users could start a meetup by their current location or by entering an address.
+
+----
+
+Linkurl: /content/2-projects/14-bandwagon/02-location.png
+
+----
+
+Includeingallery: 1

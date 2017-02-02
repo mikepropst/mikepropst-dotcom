@@ -1,0 +1,17 @@
+Title: Dashboard
+
+----
+
+Caption: Volunteers already know from door staff and attendees' iPhone apps who has arrived, so they can be prepared with a personal greeting when they see the person in the photo.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/4-ted-conferences-checkin/EMS-1.png
+
+----
+
+Sort: 3
+
+----
+
+Includeingallery: 1

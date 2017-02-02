@@ -1,0 +1,25 @@
+$font-headline:             "Montserrat", sans-serif;
+$font-body:                 "Lato", sans-serif;
+
+$body-bg-color:             #E5E5E5;
+$mid-gray:                  #4A4A4A;
+
+$base-size:                 16px;
+$base-line-height:          1.6em;
+
+$text-color:                #313131;
+$text-color-lighter:        lighten($text-color,40%);
+
+$main-width:                900px;
+$main-full-width:           675px;
+$outside-margin:            2%;
+$padding-base:              1em;
+$padding-lg:                2.4em;
+
+$link-color-blog:           #D562FF;
+$link-color-work:           #2C6A99;
+$link-color-work-lt:        #429DE3;
+$link-color-about:          #76C51B;
+
+$small-viewport:            "screen and (max-width:39em)";
+$large-viewport:            "screen and (min-width:40em)";

@@ -1,0 +1,13 @@
+Title: Layers
+
+----
+
+Caption: Layers are variations on a site's Views. They can be scheduled based on time, visitor's location, or tags and categories. This allows different designs to be applied, unique modules to be placed on each category, and advertising to be sold using highly granular criteria.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/6-aol-design-tool/2-designtool-layers.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,28 @@
+.audio-projects {
+
+}
+
+.audio-project {
+  @include clearfix();
+  margin-bottom: $padding-large;
+  &__image {
+    @include column('1/4');
+    padding-top: $padding-base*2;
+  }
+  &__info {
+    @include column('3/4');
+  }
+  &__tags {
+    margin: 0 0 $padding-base;
+    padding: 0;
+    li {
+      display: inline-block;
+      color: #fff;
+      background: #999;
+      padding: .24em .5em;
+    }
+  }
+  &__listen {
+    margin-top: $padding-base;
+  }
+}

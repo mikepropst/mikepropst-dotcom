@@ -1,0 +1,17 @@
+Title: Editing Badge Information
+
+----
+
+Caption: If any of the attendee's info is incorrect, the volunteer can change it before printing the badge.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/4-ted-conferences-checkin/EMS-6.png
+
+----
+
+Sort: 8
+
+----
+
+Includeingallery: 1

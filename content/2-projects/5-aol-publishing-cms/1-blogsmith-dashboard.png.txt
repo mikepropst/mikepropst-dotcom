@@ -1,0 +1,13 @@
+Title: Blogsmith Dashboard
+
+----
+
+Caption: Editor's snapshot. Funny story: The original dashboard was a placeholder and showed very little. When we changed it to the data-rich hunk of insight you see here, there was a riot. And this was my first real peek at the truth that users fear change (at least initially).
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/5-aol-publishing-cms/1-blogsmith-dashboard.png
+
+----
+
+Includeingallery: 1

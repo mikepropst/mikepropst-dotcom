@@ -1,0 +1,31 @@
+Title: Emurse
+
+----
+
+Company: Humidity Labs
+
+----
+
+Text: 
+
+Emurse was a popular tool built by Humidity Labs (and eventually sold) that let job seekers both passive and active build and host their résumés online. It gave users a dedicated web space for one or more résumés, a set of professional looking pre-built themes, and the ability to download them in a large number of formats including PDF and Word.
+
+The résumés were built using a dynamic tool and saved as structured data instead of a blob of text the way Monster (the only real competitor at the time) did, which allowed employers to target job seekers more granularly and effectively.
+
+*Note: Designs shown are from version 2, which was visually re-built by a different designer. The UX and color palette remained largely unchanged.*
+
+----
+
+Roles: Information Architecture,Front End,UI Design,Branding
+
+----
+
+Tools: HTML/CSS,Javascript,Photoshop,Illustrator
+
+----
+
+Blurb: A next-generation resume builder and hosting service
+
+----
+
+Companyimg: 

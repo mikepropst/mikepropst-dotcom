@@ -1,0 +1,25 @@
+Title: When to use "me" and "you" in a user interface
+
+----
+
+Text: This is a pretty good set of guidelines. I usually set up rules for any given project; I can't say that I've ever really had a major guiding principle for how I'm going to do things.
+
+----
+
+Summary: 
+
+----
+
+Tags: 
+
+----
+
+Posttype: link
+
+----
+
+Postlink: https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256
+
+----
+
+Date: 2016-08-13

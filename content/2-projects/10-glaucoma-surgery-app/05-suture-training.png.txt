@@ -1,0 +1,13 @@
+Title: Suture Training
+
+----
+
+Caption: The application features a few simulations of the difficult sutures needed to perform the implantation procedure.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/10-glaucoma-surgery-app/05-suture-training.png
+
+----
+
+Includeingallery: 1

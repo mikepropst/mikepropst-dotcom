@@ -1,0 +1,13 @@
+Title: Interest Survey
+
+----
+
+Caption: Helps users get targeted content assignments sent to them.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-12.png
+
+----
+
+Includeingallery: 1

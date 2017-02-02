@@ -1,0 +1,13 @@
+Title: Splash Page
+
+----
+
+Caption: My first foray into iOS design.
+
+----
+
+Linkurl: /content/2-projects/14-bandwagon/01-splash.png
+
+----
+
+Includeingallery: 1

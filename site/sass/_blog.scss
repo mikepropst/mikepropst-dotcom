@@ -1,0 +1,113 @@
+.full-content--blog {
+	@include center($max-width:900);
+}
+
+.blog {
+	&__title {
+		margin-bottom: .5em;
+		font-size: 2.25em;
+	}
+	&__bannertext {
+		margin-bottom: $padding-lg;
+		font-size: 1.25em;
+	}
+}
+
+.listing {
+	box-sizing: border-box;
+	background: #fff;
+	margin-bottom: $padding-base;
+	padding: $padding-base 40px;
+	box-shadow: 0 0 6px rgba($mid-gray,0.4);
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+	&__date {
+		color: lighten($mid-gray,20%);
+		margin-bottom: $padding-base;
+	}
+	&__title {
+		font-family: $font-headline;
+		font-size: 1.6em;
+		i {
+			font-size: .8em;
+		}
+		a {
+			text-decoration: none;
+		}
+	}
+	&__content {
+		line-height: 1.6em;
+		font-size: 1.1em;
+		blockquote {
+			@include quotestyle();
+		}
+		figure {
+			margin-left: 0;
+			margin-right: 0;
+		}
+	}
+}
+
+.main--blogpost {
+	background: #fff;
+	padding-bottom: $padding-lg;
+}
+
+.post {
+	@include center($pad:40px);
+	&__title {
+		font-family: $font-headline;
+		font-size: 2.25em;
+
+	}
+	&__date {
+		margin: $padding-base 0;
+		color: lighten($mid-gray,20%);
+	}
+	&__content {
+		font-size: 1.1em;
+		line-height: 1.5em;
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+		blockquote {
+			@include quotestyle();
+		}
+		figure {
+			margin-left: 0;
+			margin-right: 0;
+		}
+	}
+	&__tag {
+		display: inline-block;
+		background: $link-color-blog;
+		color: #fff;
+		padding: 4px 10px;
+		margin-right: 4px;
+		border-radius: 1px;
+	}
+}
+
+.blog .content a, .blog .full-content a, .blog .breadcrumb-nav a, .blog .blog-nextprev a {
+	color: $link-color-blog;
+	&:hover {
+		color: darken($link-color-blog,20%)
+	}
+}
+
+.breadcrumb-nav--blog {
+	@include breadcrumb($link-color-blog);
+}
+
+
+.nextprev {
+	a {
+		color: $link-color-blog;
+		&:hover {
+			color: lighten($link-color-blog,20%);
+		}
+	}
+}

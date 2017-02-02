@@ -1,0 +1,13 @@
+Title: Add Metadata to Content
+
+----
+
+Caption: While we had some good text analysis and AI tools in place to measure reading level, topics, and other features, the tool still required some user intervention to verify.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-08.png
+
+----
+
+Includeingallery: 1

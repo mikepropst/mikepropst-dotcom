@@ -1,0 +1,17 @@
+Title: Portfolio Overview
+
+----
+
+Caption: Highest-level overview of the user's portfolio of companies, including risk breakdown by different metrics, companies to watch, and alerts (not configured in this screenshot).
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/1-d-b-credit/portfolio.png
+
+----
+
+Sort: 8
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: Module Editor
+
+----
+
+Caption: Without writing any PHP or database queries, front end developers can quickly build dynamic content using proprietary <code>%tags%</code> alongside standard HTML and CSS.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/6-aol-design-tool/3-designtool-module.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: View Assignment
+
+----
+
+Caption: Assignments were created by the editor of a site using the News Desk feature of the AOL CMS.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-05.png
+
+----
+
+Includeingallery: 1

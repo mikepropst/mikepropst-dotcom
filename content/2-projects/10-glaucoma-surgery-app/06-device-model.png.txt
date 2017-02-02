@@ -1,0 +1,13 @@
+Title: Device Model
+
+----
+
+Caption: The device is shown in wireframe and photo-rendered view, zoomable and annotated (The actual device is far too small to examine in this level of detail)
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/10-glaucoma-surgery-app/06-device-model.png
+
+----
+
+Includeingallery: 1

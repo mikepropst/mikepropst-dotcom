@@ -1,0 +1,13 @@
+Title: Single View Editor
+
+----
+
+Caption: Modules can be dropped onto a page in “hotspots” (which are defined in standard HTML files). On more complex sites, the accuracy of representation wasn't always great — but it was self-explanatory enough that even non-designers often changed out ad positions.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/6-aol-design-tool/4-designtool-view.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: Post Editing Screen
+
+----
+
+Caption: The post editor is where writers and editors spend most of their time. It's often enhanced by plugins. This shows an example of a plugin to check SEO compliance. I worked to integrate plugins from other teams and helped the best ones become official plugins.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/5-aol-publishing-cms/3-blogsmith-seo-compliance-tool.png
+
+----
+
+Includeingallery: 1

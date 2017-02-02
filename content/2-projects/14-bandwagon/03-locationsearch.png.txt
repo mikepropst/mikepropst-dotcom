@@ -1,0 +1,13 @@
+Title: Location Search
+
+----
+
+Caption: Maps data populated the search with nearby businesses.
+
+----
+
+Linkurl: /content/2-projects/14-bandwagon/03-locationsearch.png
+
+----
+
+Includeingallery: 1

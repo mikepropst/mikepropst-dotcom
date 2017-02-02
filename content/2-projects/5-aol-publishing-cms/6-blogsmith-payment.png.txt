@@ -1,0 +1,13 @@
+Title: Writer Payment
+
+----
+
+Caption: Thanks to a large initiative bringing together reporting, data warehousing, advertising, payroll, and publishing teams, we created a system that handles writer payments, helps estimate the value of content and calculate profit before the content is written.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/5-aol-publishing-cms/6-blogsmith-payment.png
+
+----
+
+Includeingallery: 1

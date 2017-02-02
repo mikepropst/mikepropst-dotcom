@@ -1,0 +1,25 @@
+Title: Sketch Design Doc
+
+----
+
+Text: This looks interesting. Something like a style guide, or at least a presentational tool, built automatically from Sketch. The plugin landscape for Sketch is really amazing, and honestly might be what makes it the top of the heap for me right now even beyond the UI and tools.
+
+----
+
+Summary: 
+
+----
+
+Tags: sketch
+
+----
+
+Posttype: link
+
+----
+
+Postlink: https://github.com/mamuso/sketch-designdoc
+
+----
+
+Date: 2016-11-14

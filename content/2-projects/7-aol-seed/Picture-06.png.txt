@@ -1,0 +1,13 @@
+Title: Write Content
+
+----
+
+Caption: We eventually stripped down the WYSIWYG editor even more — this aimed to be the simplest possible writing experience, while knowing that most users wouldn't be familiar with web-based editors.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-06.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: Solution Section
+
+----
+
+Caption: An example of a list of the types of use cases, based on a particular type of customer — in this case, one in the credit, acquisition, or other financial-based department of a company.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/2-d-b-direct-api-documentation/direct-01a.png
+
+----
+
+Includeingallery: 1

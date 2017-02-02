@@ -1,0 +1,17 @@
+Title: Company Profile
+
+----
+
+Caption: The most important information including location and ownership, along with the risk evaluation of a company.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/1-d-b-credit/company-profile.png
+
+----
+
+Sort: 2
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: Guest Navigation
+
+----
+
+Caption: The mobile app is also useful for guests. Maps can help them in getting from the wedding to the reception, for instance, and they can see which of their friends are on the guest list.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/9-now-attending/na-mobile-location.png
+
+----
+
+Includeingallery: 1

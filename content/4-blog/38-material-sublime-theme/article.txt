@@ -1,0 +1,25 @@
+Title: Material Sublime Theme
+
+----
+
+Text: Here's a theme  that makes your Sublime Text look all Google-Material-ish. It's actually pretty nice. I like to change my editor often — it's one of those minimal-effort ways to stave off everyday boredom.
+
+----
+
+Tags: front end,sublime
+
+----
+
+Posttype: link
+
+----
+
+Postlink: http://equinusocio.github.io/material-theme/
+
+----
+
+Summary: 
+
+----
+
+Date: 2015-06-16

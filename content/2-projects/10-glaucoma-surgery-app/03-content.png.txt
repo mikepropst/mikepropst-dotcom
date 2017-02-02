@@ -1,0 +1,13 @@
+Title: Content Pages
+
+----
+
+Caption: Interior pages use a fly-out circular navigation to move around the main sections of the app.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/10-glaucoma-surgery-app/03-content.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: Assignments List
+
+----
+
+Caption: Here the admin monitors the assignments. She can check to see if the price is going to be effective based on projected earned ad revenue from the published post. She can also see whether there is sufficient response to the assignment.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/8-aol-seed-admin/greenhouse2.png
+
+----
+
+Includeingallery: 1

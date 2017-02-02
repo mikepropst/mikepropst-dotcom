@@ -1,0 +1,44 @@
+Title: AOL Publishing CMS
+
+----
+
+Company: AOL
+
+----
+
+Companyimg: AOL.svg
+
+----
+
+Roles: Product Management,UX Strategy,User Research,Information Architecture,UI Design,Front End
+
+----
+
+Tools: Photoshop,HTML/CSS,User Interviews,Engineer and Sysops Collaboration
+
+----
+
+Text: 
+
+####Problem
+Weblogs, Inc. had successfully monetized the blog. But upon acquisition by AOL, everything got more difficult. Scale of traffic, difficulty of moving quickly at a large company, and explosion of growth of new users were only a few of our challenges. As the project grew, I went from "guy who has opinions about the navigation" to the de facto product manager for the CMS portion of the only publishing platform to power the entirety of AOL in the company's history.
+
+#### Process
+Blogsmith (Now AOL Media Publisher) was my home for over 7 years, and in that time I learned a lot about CMS design. I've even done some consulting for other companies concerned about transitioning from blogging to "big" media.
+
+Blogsmith was fortunate to be a small team within a large company, and after acquisition we went unnoticed for a while. Given AOL's amazing infrastructure and resources, we managed to scale up our little blog tool to become a full-fledged (and increasingly-inaccurately-named) site publisher.
+
+Word of mouth spread throughout AOL that we were a more editor-friendly, designer-friendly, and traffic-spike-friendly CMS than anything in the company, so more and more sites started to come to us for publishing. When more and larger (often data-driven rather than content-driven) sites came on board, our team couldn't scale, so an API was built. Every site needed its own functionality, and our plugin architecture allowed them to add it without causing difficulties to other users across other sites. Part of my duty as our platform grew was to oversee the development of plugins and the integration of tools that would be folded in to the "core" codebase.
+
+#### Teaching by example
+When the acquisition happened, we found quickly that the newer AOL sites were not enjoying the traffic that our more experienced bloggers like Engadget or Autoblog saw. There were a myriad of reasons for that, and one of them was that they were not taking advantage of scheduling: tons of posts appeared at the same time. The go-live timeline, or "football field" as it came to be known (see the post listing screen below), was an attempt to show bloggers how a well-thought-out day of content might look. The CMS is full of examples of this kind of encouragement of best practices through the tool.
+
+#### Results
+Blogsmith had become the "CMS of record" for AOL as a whole by the time I left the company. Never before had a single publishing platform been responsible for every web property at the company. Now at over 10 years, it's also the longest-running platform in AOL's history.
+
+####What I learned
+We had a lot going for us, including great scaling and small hardware requirements. But even those wouldn't get a chance to cut costs if it weren't for two other attributes that I am happy to be a part of: great UX and extreme flexibility. Word of mouth helped Blogsmith spread like wildfire from one editorial staff to another, and that was all due to a consumer-level experience in an internal tool. Ease of use also meant a small learning curve, thus low barriers to adoption and next to no training costs for writers. Designing flexibility into the system ensured that we could always meet new sites' requirements, even though we had no idea what they were going to be. And a testament to that thinking is that the system is still supporting new sites even without its designers around.
+
+----
+
+Blurb: From rapid blog tool to enterprise publishing platform

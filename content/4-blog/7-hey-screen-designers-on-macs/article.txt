@@ -1,0 +1,31 @@
+Title: Hey screen designers on Macs
+
+----
+
+Text: 
+
+You should do this.
+
+(image: scroll.png)
+
+Obviously different OSes have different scrollbars, but you'll save yourself a lot of trouble and possibly spot some HTML mistakes before they get bad from just knowing they're there.
+
+----
+
+Summary: Do this.
+
+----
+
+Tags: mac,UI
+
+----
+
+Posttype: short
+
+----
+
+Postlink: 
+
+----
+
+Date: 2014-06-09

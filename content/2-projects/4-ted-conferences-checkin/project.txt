@@ -1,0 +1,31 @@
+Title: Mobile Checkin App
+
+----
+
+Company: TED Conferences
+
+----
+
+Companyimg: TED.png
+
+----
+
+Text: 
+
+I helped create a web-based application to be used on iPads for the purpose of checking guests into the TED conference. Along with product managers, I participated in interviews with the event management staff to determine needs and map the user journey. While Service Design for the entire attendee user journey was begun, only the checkin system was in scope for this particular project, with a conference only a couple weeks away at the time. The target users were volunteers who would not have time to be trained at all in the checkin system software.
+
+#### What I learned
+
+Service Design is not quite the fad term that it was when I worked on this project, but I fell in love with the concept of taking UX into the real world. At TED, the experience is characterized as "white glove:" a high-touch, super-personal guiding of attendees through the process of application, registration, travel, and attendance. Many of the features of this app were built with that in mind, to bridge the gap between some of the physical touchpoints.
+
+----
+
+Roles: User Research,Information Architecture,UI Design,Service Design
+
+----
+
+Tools: User Interviews,OmniGraffle,Photoshop
+
+----
+
+Blurb: iPad app and Service Design evaluation

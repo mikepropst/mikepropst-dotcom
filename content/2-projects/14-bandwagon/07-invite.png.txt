@@ -1,0 +1,13 @@
+Title: Invitation
+
+----
+
+Caption: Screen that shows the invitation to meet up, who else is invited, and allows the user to accept or decline the invitation.
+
+----
+
+Linkurl: /content/2-projects/14-bandwagon/07-invite.png
+
+----
+
+Includeingallery: 1

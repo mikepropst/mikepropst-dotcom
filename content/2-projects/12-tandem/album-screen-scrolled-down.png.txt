@@ -1,0 +1,17 @@
+Sort: 7
+
+----
+
+Title: Album View
+
+----
+
+Caption: Each album was populated by the other Tandem users who had the same events. Users could choose which photos to include in the Tandem album and which to keep private.
+
+----
+
+Linkurl: /content/2-projects/12-tandem/album-screen-scrolled-down.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: Rate Content
+
+----
+
+Caption: A feature that didn't make it into the final product was a peer-rating system for content. Using a simple "game" method, users could help improve content even when they weren't writing.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-13.png
+
+----
+
+Includeingallery: 1

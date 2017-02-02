@@ -1,0 +1,13 @@
+Title: Resume Builder
+
+----
+
+Caption: Users could add and edit as many sections as they wanted, while professionally-written tips helped guided them through the process.
+
+----
+
+Linkurl: /content/2-projects/11-emurse/02-resume-builder.png
+
+----
+
+Includeingallery: 1

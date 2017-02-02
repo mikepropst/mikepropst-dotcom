@@ -1,0 +1,17 @@
+Sort: 8
+
+----
+
+Title: Photo Sharing
+
+----
+
+Caption: Users could circumvent any problems with geolocation by manually adding photos to an album.
+
+----
+
+Linkurl: /content/2-projects/12-tandem/reusable-photo-share-drawer.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,17 @@
+Title: Editing Attendee Information
+
+----
+
+Caption: If the hotel is not already set, the volunteer can enter it here through the app.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/4-ted-conferences-checkin/EMS-4.png
+
+----
+
+Sort: 6
+
+----
+
+Includeingallery: 1

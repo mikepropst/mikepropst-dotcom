@@ -1,0 +1,13 @@
+Title: Edit Assignment
+
+----
+
+Caption: This screen mirrors the CMS view of the editor who created the assignment, but lives inside the admin tool for the purposes of fixing errors, adjusting prices, and tweaking assignments.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/8-aol-seed-admin/greenhouse3.png
+
+----
+
+Includeingallery: 1

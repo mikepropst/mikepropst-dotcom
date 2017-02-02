@@ -1,0 +1,25 @@
+Title: Desktop Neo
+
+----
+
+Text: From a 21-year-old design student at Potsdam. It's not 100% practical. But the idea that revolution (or even *evolution*) in desktop operating system UIs is going to come not from Apple or Microsoft but from a kid who's been natively dealing with multi-touch screens since they were old enough to drive a car is plausible.
+
+----
+
+Summary: 
+
+----
+
+Tags: UI,desktop,mac
+
+----
+
+Posttype: link
+
+----
+
+Postlink: https://www.desktopneo.com/
+
+----
+
+Date: 2016-01-25

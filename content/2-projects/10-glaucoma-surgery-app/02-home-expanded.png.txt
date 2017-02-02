@@ -1,0 +1,13 @@
+Title: Home Screen - Expanded
+
+----
+
+Caption: Tapping the Featured Content area expands the center of the circle.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/10-glaucoma-surgery-app/02-home-expanded.png
+
+----
+
+Includeingallery: 1

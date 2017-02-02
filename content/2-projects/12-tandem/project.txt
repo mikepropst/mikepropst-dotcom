@@ -1,0 +1,21 @@
+Title: Tandem iPhone App
+
+----
+
+Text: Tandem is a photo-sharing app for iPhone that creates event-based social photo albums without the need to assign them yourself and no need to connect to social networks.
+
+----
+
+Roles: Product Strategy,Information Architecture,Visual Design
+
+----
+
+Tools: Photoshop,OmniGraffle
+
+----
+
+Blurb: Photo sharing (in our opinion) done right
+
+----
+
+Company: Humidity Labs

@@ -1,0 +1,13 @@
+Title: Timeline
+
+----
+
+Caption: An interactive timeline lets surgeons compare recovery and maintenance periods with different procedures and implantations.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/10-glaucoma-surgery-app/07-timeline.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: Location View
+
+----
+
+Caption: The view of a location before confirmation. It showed the users approximately how long it'd take to get there (from Google Maps) and an action button to start the meetup.
+
+----
+
+Linkurl: /content/2-projects/14-bandwagon/04-viewlocation.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: View Submissions
+
+----
+
+Caption: The admin can view all submissions for the assignment. Includes stats for the submitting author and a Flesch-Kincaid analysis of the submission as compared to that of the site to which it will be published.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/8-aol-seed-admin/greenhouse4.png
+
+----
+
+Includeingallery: 1

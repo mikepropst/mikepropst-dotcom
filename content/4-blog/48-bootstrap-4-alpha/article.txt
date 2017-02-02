@@ -1,0 +1,33 @@
+Title: Bootstrap 4 Alpha
+
+----
+
+Text: Bootstrap unveils [Version 4 Alpha](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/), and while it's not the complete upside-down reversal that 3 was, it looks like there's a few things that will keep most people from being able to migrate existing projects. Most notably it's Sass instead of Less. I feel like I'm the only person in the world using Less at this point, so I'm not super surprised. Libsass has come into its own as a Ruby-free implementation of the arguably superior preprocessor, and the Sass fork of Bootstrap 3 seems popular, so this isn't a surprising move but it's still big.
+
+Cards are a welcome addition. Panels and wells always seemed like a hacky way to implement "boxed" or "separated" interfaces.
+
+Killing off the separate theme stylesheet is great too. It's always been a little confusing how the Bootstrap folks intended us to split our customizations between `variables.less` and `theme.css`.
+
+The handling of Flex-box sounds smart, and dropping IE8 is a great move. Bootstrap is so popular that it has helped drive feature and browser support.
+
+I'm looking forward to trying it out. Might use it for a sorta in-the-works  redesign of this site that I started.
+
+----
+
+Summary: 
+
+----
+
+Tags: front end,bootstrap
+
+----
+
+Posttype: short
+
+----
+
+Postlink: http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/
+
+----
+
+Date: 2015-08-19

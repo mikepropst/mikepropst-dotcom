@@ -1,0 +1,13 @@
+Title: Marketing Page
+
+----
+
+Caption: As this page is largely a branding and marketing endeavor, it's the only screen that changed significantly, although the base pitch remained similar.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-01.png
+
+----
+
+Includeingallery: 1

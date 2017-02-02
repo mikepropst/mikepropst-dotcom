@@ -1,0 +1,9 @@
+Title: Home
+
+----
+
+Text: I have been making software easier, more valuable to customers, and more fun for over ten years. I understand there’s no magic bullet to making great software, just a series of smart decisions informed by **research**, **analytics**, and **experience**.
+
+[View my Résumé](/resume/)
+
+[Read my Blog](/blog)

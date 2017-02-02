@@ -1,0 +1,31 @@
+Title: The lobotomized owl
+
+----
+
+Text: An [incredibly simple and brilliant CSS selector](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) that can help establish a vertical rhythm and reduce redundancy.
+
+```
+* + * {
+ etc
+}
+```
+
+----
+
+Summary: who
+
+----
+
+Tags: front end
+
+----
+
+Posttype: short
+
+----
+
+Postlink: 
+
+----
+
+Date: 2014-12-29

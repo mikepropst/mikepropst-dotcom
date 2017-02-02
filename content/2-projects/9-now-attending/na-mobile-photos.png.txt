@@ -1,0 +1,13 @@
+Title: Photos
+
+----
+
+Caption: Disposable cameras are a thing of the past. In addition to getting onto the big screen, photos are shared via the mobile app.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/9-now-attending/na-mobile-photos.png
+
+----
+
+Includeingallery: 1

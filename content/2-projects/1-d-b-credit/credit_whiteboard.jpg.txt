@@ -1,0 +1,13 @@
+Title: Information Architecture
+
+----
+
+Caption: The first stages of organizing the pieces of the application.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/1-d-b-credit/credit_whiteboard.jpg
+
+----
+
+Includeingallery: 1

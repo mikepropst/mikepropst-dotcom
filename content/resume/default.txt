@@ -1,0 +1,91 @@
+Title: Mike Propst
+
+----
+
+Text: UX professional with more than ten years' experience developing solutions for interacting with web, desktop and mobile software. Versed in consumer-facing, b2b, and internal tools. Previous work includes complex data insight, event management, content management, mobile applications, and K-12 software.
+
+## Skills
+
+###Core
+* Design thinking
+* Leadership
+* UX Strategy
+* Culture change
+* Design/Dev bridge
+* Mentoring
+
+### Experience and Interaction
+* Human-centered design
+* Wireframing at multiple fidelity levels
+* User research and product requirements gathering
+* User flows, services blueprints, and other diagramming methods
+* Lean UX and integration with Agile development teams
+* Rapid prototyping in Axure and HTML/Bootstrap
+* Able to train teams in specific tools as well as HCD methods
+
+### VIsual
+* User interface design
+* Strong graphic design knowledge and principles
+
+###Development
+* HTML5, CSS3, Javascript/JQuery
+* LESS, SASS, Jade, HAML, and other preprocessed front end technologies
+* Able to work with APIs
+* Can work with PHP, Ruby and Python on front end
+* Responsive Design
+
+## Clients & Experience
+
+###Palo Alto Software
+####Eugene, OR
+#####Senior UX Designer *2015-Present*
+* Create wireframes and information architecture in an agile software environment
+* Create a pattern library and style-guide-driven design process, then implement that process between UX and React-based development teams
+* Participate in user research
+* Lead a small team in producing the front end of a web-based software experience
+
+### Dun & Bradstreet
+#### Austin TX
+#### Senior UX Designer *2013-2015*
+* Design information architecture, interactions, and overall user experience of enterprise SaaS applications for sales intelligence and risk management.
+* Work with cross-functional teams including product managers, business analysts, visual designers and software developers to gather requirements, prototype, test, and design web application features. Work with usability analysts to design user tests for validating design hypotheses and improving existing customer experiences.
+* Use and teach human-centered methods with teams to determine outcomes in complex software problems.
+* Work with development and technical writing teams to improve developer experience with APIs and documentation.
+* Build and manage a UI framework and living style guides to aid in the first-ever company-wide effort to unify user interfaces.
+
+###AOL, Inc.
+####New York, NY / Dulles, VA
+#####Principal Designer for Global Publishing *2006-2012*
+
+* Design and develop the information architecture and interface for the longest-running and farthest-reaching content platform in company history. Along with a small core team, help develop the strategy for content publishing and imagine new and better ways to publish online.* Connect with and assist editorial teams from AOL’s content channels to help launch sites on the platform.* Work proactively with data warehouse, advertising, and editorial teams to create a reporting, analytics and payment system that recommends topics and pricing, manages content approvals, and handles payroll from within the CMS tools.* Work with other product and engineering teams to manage integration of other content tools and functions into the CMS while maintaining our own product integrity and vision.* Create materials and conduct training sessions to educate developers using the platform in advanced techniques and best practices.
+
+###TED Conferences
+####New York, NY
+#####UX and Interface Design (Contract) *2013*
+
+* Design workflow and interface for a low-impact internal tool to help manage projects and track needs across various teams.
+* Design the visuals and help create the user flow for a custom asset management tool to help TED Conferences manage their high volume of video assets.
+* Participate in user research, create user stories and workflows, and design visuals for a conference attendee check-in tablet app.
+
+###HCB Health
+####Austin, TX
+#####Information Architecture (Contract) *2013*
+
+* Work in a research-heavy environment with Content Strategy and Creative teams to create application structures, interaction models, and wireframe designs for tablet applications in the medical space.
+* iPad applications include surgical equipment sales tools, continuing-education apps for glaucoma surgeons, and a !real-time customer support application for Lasik surgical machines.
+
+###Weblogs, Inc.
+####New York, NY
+#####CMS and Site Design & Development *2005-2006*
+
+* Design and maintain sites for Weblogs, Inc. — at the time the world’s largest network of blogs. Sites included industry leaders such as Engadget, TMZ, Autoblog, Joystiq and The Unofficial Apple Weblog.
+* Responsible for the launch, design, and maintenance of almost 100 sites at the network's peak.
+* Help facilitate the transition of the platform from ASP to PHP, and later the transition from startup to corporate publishing network upon acquisition by AOL.
+
+## Education and Training
+
+### LUMA Institute
+Private, intensive training course on Human Centered Design methods.
+
+###The Art Institute of Pittsburgh
+Associate Degree in Specialized Technology, majoring in Graphic Design

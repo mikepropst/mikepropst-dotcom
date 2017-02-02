@@ -1,0 +1,17 @@
+Title: Services Blueprint
+
+----
+
+Caption: Captures the multiple touchpoints and multiple user types who will interact with the app. This chart was an audit of the existing process that was used to identify breakdowns, pain points, and non-ideal situations for remedying in the finished product. Click to see it (somewhat) bigger.
+
+----
+
+Linkurl: ted-conferences-checkin/fullsize/service-blueprint-full.1600.png
+
+----
+
+Sort: 1
+
+----
+
+Includeingallery: 1

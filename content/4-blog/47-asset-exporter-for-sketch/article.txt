@@ -1,0 +1,26 @@
+Title: Asset Exporter for Sketch
+
+----
+
+Text: Pretty cool way to export assets from Sketch without even opening the application.
+
+----
+
+Summary:
+
+----
+
+Tags: Sketch, design
+
+----
+
+Posttype: link
+
+
+----
+
+Postlink: https://github.com/mariuszostrowski/sketchexporter
+
+----
+
+Date: 2015-08-18

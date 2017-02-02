@@ -1,0 +1,37 @@
+Title: AOL Seed
+
+----
+
+Company: AOL
+
+----
+
+Companyimg: AOL.svg
+
+----
+
+Text: 
+
+AOL's User-generated content initiative. No longer active.
+
+#### The problem
+Paying writers an increasing amount had started to eat into the profits that sites like Engadget, Autoblog and TUAW enjoyed when they were new. The issue was that writers in the early days wrote for the fun of it, and got a little bonus pocket money. None were full time. With large payouts for professional writers, the money wasn't there. So the idea was proposed to go out to the public. The proposition was simple: you write something for us that gives us ad revenue, and we give you a byline and a little money.
+
+#### The process
+At this point, there weren't many people anywhere who knew more about publishing content online than the AOL team. So we used our knowledge, coupled with UX best practices for a different, less-tech-savvy audience, to generate the idea and rapid prototype for a simpler writing system that fully integrated with the AOL CMS News Desk. This later became Seed.
+
+**NOTE:** These screens show a pre-branded, *hypothetical* design that was presented to the executive team at AOL before official development began, so they are essentially what you might call "rich wireframes." The branding was executed by the AOL Media team in New York but adhered pretty closely to these layouts and interactions.
+
+Seed ended up being a briefly successful initiative that was promoted heavily at SXSW that year, but ultimately AOL decided not to maintain it for various reasons.
+
+----
+
+Roles: Information Architecture,UX Strategy,Product Strategy
+
+----
+
+Tools: OmniGraffle,Photoshop,HTML/CSS
+
+----
+
+Blurb: Freelance recruiting and user-generated content sourcing system

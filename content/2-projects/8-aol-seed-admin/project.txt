@@ -1,0 +1,29 @@
+Title: AOL Seed Admin
+
+----
+
+Company: AOL
+
+----
+
+Text: 
+
+When [AOL's Seed](/projects/aol-seed) user-generated content management tool launched and integrated with the Blogsmith CMS, the need soon became apparent for a small administration staff to oversee the process from a higher level than what individual site editors could do. This interface was created for those users.
+
+The visual treatment for Seed was handled by another team; these are my wireframes.
+
+----
+
+Roles: Information Architecture
+
+----
+
+Tools: OmniGraffle
+
+----
+
+Blurb: High-volume user-generated content processing
+
+----
+
+Companyimg: AOL.svg

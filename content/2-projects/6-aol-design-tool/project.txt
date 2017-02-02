@@ -1,0 +1,21 @@
+Title: AOL Design Tool
+----
+Company: AOL
+----
+
+companyimg: AOL.svg
+
+----
+
+Text: The Design Tool allows front-end developers to build and maintain sites without the need for PHP or database skills. Its features allow for complete customization and dynamic, data-driven sites that would normally not be possible for someone with only HTML and CSS skills to build. Designers can dynamically change a site’s content through “layers” based on time and date, geographic location of a site’s visitors, specific categories or tags, and more. This allows for more targeted content and advertising. Other features included simple A/B testing and development sandboxes for safe redesigns.
+
+The model for Design is actually an abstraction of the way the code works under the hood. My perspective, working closely with the engineers and knowing the thought behind the code structure, gave me a unique angle on the information architecture.
+
+I consider the Design Tool to be one of my proudest achievements. It empowered a smaller, more design-centric staff to operate more cheaply and with less frustration toward launching and pushing updates to sites, all in an environment that was formerly unfriendly to rapid deployment.
+
+----
+Roles: User Research,Information Architecture,Interaction Design,UI Design,Front End
+----
+Tools: User Interviews,HTML/CSS,Photoshop,Engineer Collaboration
+----
+Blurb: Enabler for HTML folks to build powerful websites

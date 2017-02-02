@@ -1,0 +1,13 @@
+Title: Guest List
+
+----
+
+Caption: Event hosts and their planners can manage their guest list, itinerary, guest-submitted photos, and everything else necessary to run an event from the web system.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/9-now-attending/2-na-guestlist.png
+
+----
+
+Includeingallery: 1

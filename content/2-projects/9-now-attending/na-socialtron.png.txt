@@ -1,0 +1,13 @@
+Title: Connected Big Screen
+
+----
+
+Caption: The app that became a feature.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/9-now-attending/na-socialtron.png
+
+----
+
+Includeingallery: 1

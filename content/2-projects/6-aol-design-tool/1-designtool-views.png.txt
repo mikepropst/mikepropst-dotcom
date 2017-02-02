@@ -1,0 +1,13 @@
+Title: Views Listing
+
+----
+
+Caption: A snapshot of all a site's “views,” which are not views strictly in the sense of an MVC, but similar — they essentially translate to pages.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/6-aol-design-tool/1-designtool-views.png
+
+----
+
+Includeingallery: 1

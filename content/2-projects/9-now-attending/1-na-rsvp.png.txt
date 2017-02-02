@@ -1,0 +1,17 @@
+Title: RSVP Mini-Site
+
+----
+
+Caption: 
+
+Now Attending helps hosts set up an RSVP website, negating the need for a postcard-style RSVP response system without resorting to Evites.
+
+The interface uses a wizard pattern with adaptive next steps depending on the guest's answers.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/9-now-attending/1-na-rsvp.png
+
+----
+
+Includeingallery: 1

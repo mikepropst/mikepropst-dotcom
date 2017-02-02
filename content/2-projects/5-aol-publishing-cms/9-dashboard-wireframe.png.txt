@@ -1,0 +1,13 @@
+Title: Dashboard Redesign Wireframe
+
+----
+
+Caption: From the above chart, a dashboard redesign built around accommodating external per-post freelance writers and generating assignments for them.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/5-aol-publishing-cms/9-dashboard-wireframe.png
+
+----
+
+Includeingallery: 1

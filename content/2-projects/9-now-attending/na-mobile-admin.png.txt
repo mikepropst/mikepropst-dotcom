@@ -1,0 +1,13 @@
+Title: Mobile Host Tools
+
+----
+
+Caption: The host can manage guest lists on the go.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/9-now-attending/na-mobile-admin.png
+
+----
+
+Includeingallery: 1

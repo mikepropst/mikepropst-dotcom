@@ -1,0 +1,17 @@
+Title: Search Results
+
+----
+
+Caption: Overhauling search and filtering was one of the biggest tasks required in the redesign of the credit software. We used autocomplete, smart sorting/defaults, lazy loading and card-based results display for a huge improvement.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/1-d-b-credit/search.png
+
+----
+
+Sort: 9
+
+----
+
+Includeingallery: 1

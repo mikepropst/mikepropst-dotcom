@@ -1,0 +1,13 @@
+Title: News Desk
+
+----
+
+Caption: An “app within an app,” accessible from anywhere in the CMS, where editors assign and manage stories. It integrates with a web bookmarklet that lets editors push assignments to their News Desk while they’re browsing the web.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/5-aol-publishing-cms/4-blogsmith-news-desk.png
+
+----
+
+Includeingallery: 1

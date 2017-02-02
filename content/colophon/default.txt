@@ -1,0 +1,19 @@
+Title: Colophon
+
+----
+
+Text:
+ 
+### Layout
+This site is built using the ubiquitous but ultimately very useful [Twitter Bootstrap](http://getbootstrap.com). I used the LESS version of Bootstrap, because LESS is very handy and it helped me enjoy front end development more than I have in years. The menu uses a hamburger, even though the jury is very much out still. By the time the jury comes back, the hamburger will be even more omnipresent and this problem may have been solved.
+
+### Type
+The body is set in Lato, the headings Slabo, both available through Google Fonts. 
+
+### CMS
+The content is managed by the outstanding and incredibly simple [Kirby CMS](http://getkirby.com), about which I can't say enough great and rad things.
+
+### Misc
+Other tools used include [Rhodia pads](http://rhodiapads.com/), Grunt, [CodeKit](http://incident57.com), Adobe Creative Suite, Sketch, and a Canon EOS T3i.
+
+I'm sure that's more than you wanted to know. Thanks for looking.

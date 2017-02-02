@@ -1,0 +1,13 @@
+Title: Preview Content
+
+----
+
+Caption: Users get a last chance to read over and polish their content before submission.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-09.png
+
+----
+
+Includeingallery: 1

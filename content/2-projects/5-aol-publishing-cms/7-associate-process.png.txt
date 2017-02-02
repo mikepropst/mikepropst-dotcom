@@ -1,0 +1,13 @@
+Title: Associate Writer Workflow
+
+----
+
+Caption: A workflow diagram illustrating the process by which editors reach out to the wider world requesting user-generated content. Used in the integration of the Blogsmith CMS with the (now-defunct) <a href="/projects/web/aol-seed/">Seed</a> tool.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/5-aol-publishing-cms/7-associate-process.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,25 @@
+Title: AOL Status Dashboard
+
+----
+
+Company: AOL
+
+----
+
+Text: Displayed the status of the AOL content network on large HDTVs around the Manhattan media office. The dashboard used websockets to maintain a constant connection and display traffic information in real time. It also tracked profitability, top content, referrers and other key metrics.
+
+----
+
+Roles: Visual Design,Information Design
+
+----
+
+Tools: Photoshop,HTML/CSS
+
+----
+
+Blurb: An HDTV monitor of publishing system traffic and profitability
+
+----
+
+Companyimg: AOL.svg

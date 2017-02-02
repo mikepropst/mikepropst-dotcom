@@ -1,0 +1,25 @@
+Title: Meaningful CSS (basically, what he said)
+
+----
+
+Text: Here's Jonathan Snook with what is probably [a more measured response](http://snook.ca/archives/html_and_css/more-meaningful-css) than mine.
+
+----
+
+Summary: 
+
+----
+
+Tags: CSS,front end
+
+----
+
+Posttype: link
+
+----
+
+Postlink: http://snook.ca/archives/html_and_css/more-meaningful-css
+
+----
+
+Date: 2016-05-25

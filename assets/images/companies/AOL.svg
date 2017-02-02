@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="773.57037"
+   height="672.99121"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AOL Say.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="M 0,3131.93 V 0 h 3600 v 3131.93 z"
+         id="path18"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="733.66048"
+     inkscape:cy="283.58187"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(28.571423,-311.02346)">
+    <g
+       id="g10"
+       transform="matrix(2.1488066,0,0,-2.1488066,-28.571423,984.01465)">
+      <g
+         id="g12"
+         transform="scale(0.1,0.1)">
+        <g
+           id="g14">
+          <g
+             id="g16"
+             clip-path="url(#clipPath20)">
+            <path
+               d="m 1937.8,1406.75 c 0,-126.53 94.84,-218.73 206.85,-218.73 111.93,0 206.84,92.2 206.84,218.73 0,126.63 -94.91,218.81 -206.84,218.81 -112.01,0 -206.85,-92.18 -206.85,-218.81 z M 3017.36,970.051 H 2755.73 V 2126.57 h 261.63 z m 412.22,1373.299 87.59,278.31 -552.91,173.97 -384.79,-1222.61 c 20.17,-54.58 30.23,-111.6 30.23,-166.27 0,-212.52 -150.88,-460.969 -465.05,-460.969 -121.76,0 -218.88,37.41 -292.32,95.489 l -74.02,-323.051 496.32,-113.778 -93.13,-295.91 552.95,-173.961 173.62,551.649 489.98,-58.367 44.75,375.698 c -30.37,-25.87 -69.67,-41.562 -112.66,-41.562 -95.96,0 -173.88,77.852 -173.88,173.862 0,95.99 77.92,173.88 173.88,173.88 57.82,0 108.95,-28.39 140.58,-71.84 L 3600,2323.04 z M 969.902,1371.72 h 242.288 l -121.12,403.25 z m 1174.748,496.05 c 224.85,0 366.02,-127.26 428.14,-277.55 l 266.8,1164.13 -565.02,129.47 -49.65,-216.64 -103.18,67.44 -650.54,-995.41 214.79,682.44 -552.87,174.02 -147.64,-469.1 h 222 L 1658.42,970.051 h -311.81 l -56.29,167.219 H 888.629 L 827.676,970.051 H 518.961 L 903.574,1946.24 1176.8,2984.46 616.246,3131.93 0,790.371 521.719,653.07 370.941,174 923.812,0 1127.42,646.91 1353.3,499.23 1766.71,1131.8 c -58.42,82.77 -87.14,182.28 -87.14,274.95 0,212.6 150.89,461.02 465.08,461.02"
+               style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path22"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

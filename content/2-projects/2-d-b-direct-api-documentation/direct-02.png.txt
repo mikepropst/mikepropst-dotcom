@@ -1,0 +1,13 @@
+Title: D&B Direct Docs
+
+----
+
+Caption: The Basic/Advanced switch at the top helped sort out the complicated sales packages. The terms were not used in sales, but proved to be a relatively easy way to get the message across that some features were premium. Users who didn't need them didn't have to see them.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/2-d-b-direct-api-documentation/direct-02.png
+
+----
+
+Includeingallery: 1

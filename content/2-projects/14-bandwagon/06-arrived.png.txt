@@ -1,0 +1,13 @@
+Title: Arrival Confirmation
+
+----
+
+Caption: Due to inaccuracies with the early (iPhone 3G) GPS location technology, we included a confirmation to make sure we didn't falsely label someone as arrived.
+
+----
+
+Linkurl: /content/2-projects/14-bandwagon/06-arrived.png
+
+----
+
+Includeingallery: 1

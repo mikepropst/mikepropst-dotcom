@@ -1,0 +1,13 @@
+Title: D&B Direct Home Page
+
+----
+
+Caption: Helps direct technical buyers to the package they might need.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/2-d-b-direct-api-documentation/direct-01.png
+
+----
+
+Includeingallery: 1

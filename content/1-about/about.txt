@@ -1,0 +1,19 @@
+Title: About
+
+----
+
+Text: 
+
+My travels have taken me from Pittsburgh to Detroit to Austin and now to Eugene. I've worked at agencies, web shops, software and data companies that served enterprise, small business, education, and automotive customers.
+
+On the side, along with a couple other people, I have built mobile apps and successful job-search applications. 
+
+[My full résumé is here.](/resume/)
+
+Outside of software, my primary jobs are Dad and Husband. I also play music and produce recordings for other small artists and bands.
+
+#### This site
+
+* Content is managed by [Kirby CMS](http://getkirby.com), a no-database PHP system that's really just plain great.
+* Grid is managed by [Jeet](http://jeet.gs), a grid-only system that I love.
+* Fonts are Montserrat and Lato, served from Google.

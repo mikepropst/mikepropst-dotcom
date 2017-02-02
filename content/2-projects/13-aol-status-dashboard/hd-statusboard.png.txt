@@ -1,0 +1,13 @@
+Title: Status board
+
+----
+
+Caption: Once an omnipresent visual around the AOL offices, and an early use of websockets technology.
+
+----
+
+Linkurl: /content/2-projects/13-aol-status-dashboard/hd-statusboard.png
+
+----
+
+Includeingallery: 1

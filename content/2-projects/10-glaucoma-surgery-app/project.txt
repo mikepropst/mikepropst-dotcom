@@ -1,0 +1,31 @@
+Title: Glaucoma Surgery Tablet App
+
+----
+
+Company:
+
+----
+
+companyimg: hcb.png
+
+----
+
+Text:
+
+I worked with the team at HCB Health — most closely with a content strategist and creative director — to build the early wireframes for an educational material and simulation application for the iPad.
+
+The content focused around the client's branded product, an advanced version of a shunt used in glaucoma surgery. The procedure is a low-reward, low-profit surgery that the client hoped to improve for surgeons. But the materials to educate doctors on modern procedures, not just their product, were few and far between.
+
+In addition to working with the HCB team, this work involved close communication and frequent checkins with the client.
+
+----
+
+Roles: Information Architecture
+
+----
+
+Tools: OmniGraffle
+
+----
+
+Blurb: App to help sell surgery tools through doctor education

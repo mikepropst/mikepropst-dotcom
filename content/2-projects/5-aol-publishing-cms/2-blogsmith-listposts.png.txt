@@ -1,0 +1,13 @@
+Title: Post Listing
+
+----
+
+Caption: The list of all content: drafts, awaiting editing and approval, live, and yet to go live. Uses a two-row listing display method, a go-live timeline with traffic overlay, and many methods of filtering to manage the huge volumes of content that the system deals with.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/5-aol-publishing-cms/2-blogsmith-listposts.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,17 @@
+Sort: 6
+
+----
+
+Title: List of Albums
+
+----
+
+Caption: Before Facebook Moments, and before iOS organized your photos into "events," we used geolocation and time to do the same.
+
+----
+
+Linkurl: /content/2-projects/12-tandem/albums-list.png
+
+----
+
+Includeingallery: 1

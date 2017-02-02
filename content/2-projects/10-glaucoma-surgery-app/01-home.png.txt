@@ -1,0 +1,13 @@
+Title: Home Screen
+
+----
+
+Caption: The circular navigation system mirrors an eye but not in too literal of a way.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/10-glaucoma-surgery-app/01-home.png
+
+----
+
+Includeingallery: 1

@@ -1,0 +1,13 @@
+Title: Sign Up
+
+----
+
+Caption: Though we pushed for less fields and a simpler way to sign up, ultimately we lost the fight to account creation.
+
+----
+
+Linkurl: http://mikepropst.com/content/2-projects/7-aol-seed/Picture-02.png
+
+----
+
+Includeingallery: 1
