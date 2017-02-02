@@ -4,7 +4,7 @@
 	<div class="home__container">
 		<div class="home__titlebox">
 			<h1>Mike Propst</h1>
-			<h2>UX Designer</h2>
+			<h2>User Experience</h2>
 		</div>
 		<div class="home__menu">
 			<ul>

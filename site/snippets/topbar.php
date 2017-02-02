@@ -1,7 +1,7 @@
 <header class="header">
 	<div class="header__inner">
 		<div class="header__title">
-			<h1>Mike Propst <span>UX Designer</span></h1>
+			<h1>Mike Propst <span>User Experience</span></h1>
 		</div>
 		<div class="header__nav">
 			<ul>
