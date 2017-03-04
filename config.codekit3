@@ -7,7 +7,7 @@
 		"uuidString": "C1003594-3C90-4CDF-A935-2B0DA5A3F8E2"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25568",
 "files": {
 	"\/.htaccess": {
 		"ft": 8192,
@@ -2112,6 +2112,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/4-blog\/83-nielsen-computer-skills-are-worse-than-you-think\/article.txt",
+		"oF": 0
+		},
+	"\/content\/4-blog\/84-front-end-styleguides-by-anna-debenham\/article.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/4-blog\/84-front-end-styleguides-by-anna-debenham\/article.txt",
 		"oF": 0
 		},
 	"\/content\/4-blog\/9-harrison-mixbus-first-impressions\/article.txt": {
@@ -13468,6 +13474,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -13796,6 +13806,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
 		"prefer-rest-params": {
 			"active": 0,
 			"optionString": ""
@@ -13889,6 +13903,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
