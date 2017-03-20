@@ -1,0 +1,29 @@
+Title: It's grid time!
+
+----
+
+Text: 
+
+Firefox and Chrome have now officially launched support for CSS grid. Months of saving Rachel Andrew talks in your Pocket account and saying "I'll get to that soon, it won't be ready for a couple years anyway" have finally paid off!
+
+I'm kind of stoked to get into it. Here's a (link: https://css-tricks.com/getting-started-css-grid/ text: CSS-Tricks primer).
+
+----
+
+Summary: 
+
+----
+
+Tags: CSS,CSS grid,front end
+
+----
+
+Posttype: short
+
+----
+
+Postlink: 
+
+----
+
+Date: 2017-03-13
