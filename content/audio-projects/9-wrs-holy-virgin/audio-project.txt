@@ -10,7 +10,7 @@ Role: Mixing
 
 ----
 
-Description: A very Smiths-esque 7" with a healthy dose of Byrds and Big Star from a long-standing mix client in Austin, TX. Harmonies, 12-strings, and giant hooks.
+Description: A very Smiths-esque 7" with a healthy dose of Byrds and Big Star from a long-standing mix client in Austin, TX. Harmonies, 12-strings, and hooks.
 
 ----
 
@@ -26,11 +26,11 @@ Linktype: Bandcamp
 
 ----
 
-Link2: 
+Link2:
 
 ----
 
-Linktype2: 
+Linktype2:
 
 ----
 
