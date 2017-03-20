@@ -2383,107 +2383,137 @@
 		"oAP": "\/content\/4-blog\/feed\/feed.txt",
 		"oF": 0
 		},
-	"\/content\/audio-projects\/1-sarama-the-tower\/audio-project.txt": {
+	"\/content\/audio-projects\/1-an-empty-room-unbirth-ep\/audio-project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/audio-projects\/1-sarama-the-tower\/audio-project.txt",
+		"oAP": "\/content\/audio-projects\/1-an-empty-room-unbirth-ep\/audio-project.txt",
 		"oF": 0
 		},
-	"\/content\/audio-projects\/1-sarama-the-tower\/sarama.jpg": {
+	"\/content\/audio-projects\/1-an-empty-room-unbirth-ep\/unbirth.jpg": {
+		"ft": 16384,
+		"iS": 95684,
+		"oA": 0,
+		"oAP": "\/content\/audio-projects\/1-an-empty-room-unbirth-ep\/unbirth.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/audio-projects\/2-you-might-think-we-re-sharks-summer-moon\/audio-project.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/audio-projects\/2-you-might-think-we-re-sharks-summer-moon\/audio-project.txt",
+		"oF": 0
+		},
+	"\/content\/audio-projects\/2-you-might-think-we-re-sharks-summer-moon\/sharks_live.jpg": {
+		"ft": 16384,
+		"iS": 57388,
+		"oA": 0,
+		"oAP": "\/content\/audio-projects\/2-you-might-think-we-re-sharks-summer-moon\/sharks_live.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/audio-projects\/3-sarama-the-tower\/audio-project.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/audio-projects\/3-sarama-the-tower\/audio-project.txt",
+		"oF": 0
+		},
+	"\/content\/audio-projects\/3-sarama-the-tower\/sarama.jpg": {
 		"ft": 16384,
 		"iS": 428127,
 		"oA": 0,
-		"oAP": "\/content\/audio-projects\/1-sarama-the-tower\/sarama.jpg",
+		"oAP": "\/content\/audio-projects\/3-sarama-the-tower\/sarama.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/audio-projects\/2-you-might-think-we-re-sharks-firecracker-2-0\/audio-project.txt": {
+	"\/content\/audio-projects\/4-you-might-think-we-re-sharks-firecracker-2-0\/audio-project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/audio-projects\/2-you-might-think-we-re-sharks-firecracker-2-0\/audio-project.txt",
+		"oAP": "\/content\/audio-projects\/4-you-might-think-we-re-sharks-firecracker-2-0\/audio-project.txt",
 		"oF": 0
 		},
-	"\/content\/audio-projects\/2-you-might-think-we-re-sharks-firecracker-2-0\/sharks.jpg": {
+	"\/content\/audio-projects\/4-you-might-think-we-re-sharks-firecracker-2-0\/sharks.jpg": {
 		"ft": 16384,
 		"iS": 76446,
 		"oA": 0,
-		"oAP": "\/content\/audio-projects\/2-you-might-think-we-re-sharks-firecracker-2-0\/sharks.jpg",
+		"oAP": "\/content\/audio-projects\/4-you-might-think-we-re-sharks-firecracker-2-0\/sharks.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/audio-projects\/3-you-might-think-we-re-sharks-ep-lp\/audio-project.txt": {
+	"\/content\/audio-projects\/5-you-might-think-we-re-sharks-ep-lp\/audio-project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/audio-projects\/3-you-might-think-we-re-sharks-ep-lp\/audio-project.txt",
+		"oAP": "\/content\/audio-projects\/5-you-might-think-we-re-sharks-ep-lp\/audio-project.txt",
 		"oF": 0
 		},
-	"\/content\/audio-projects\/3-you-might-think-we-re-sharks-ep-lp\/sharksalbum.jpg": {
+	"\/content\/audio-projects\/5-you-might-think-we-re-sharks-ep-lp\/sharksalbum.jpg": {
 		"ft": 16384,
 		"iS": 278390,
 		"oA": 0,
-		"oAP": "\/content\/audio-projects\/3-you-might-think-we-re-sharks-ep-lp\/sharksalbum.jpg",
+		"oAP": "\/content\/audio-projects\/5-you-might-think-we-re-sharks-ep-lp\/sharksalbum.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/audio-projects\/4-obsession-vtorj-fakel\/audio-project.txt": {
+	"\/content\/audio-projects\/6-obsession-vtorj-fakel\/audio-project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/audio-projects\/4-obsession-vtorj-fakel\/audio-project.txt",
+		"oAP": "\/content\/audio-projects\/6-obsession-vtorj-fakel\/audio-project.txt",
 		"oF": 0
 		},
-	"\/content\/audio-projects\/4-obsession-vtorj-fakel\/obsession.jpg": {
+	"\/content\/audio-projects\/6-obsession-vtorj-fakel\/obsession.jpg": {
 		"ft": 16384,
 		"iS": 161186,
 		"oA": 0,
-		"oAP": "\/content\/audio-projects\/4-obsession-vtorj-fakel\/obsession.jpg",
+		"oAP": "\/content\/audio-projects\/6-obsession-vtorj-fakel\/obsession.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/audio-projects\/5-sho-galago-candy-rain-ep\/audio-project.txt": {
+	"\/content\/audio-projects\/7-sho-galago-candy-rain-ep\/audio-project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/audio-projects\/5-sho-galago-candy-rain-ep\/audio-project.txt",
+		"oAP": "\/content\/audio-projects\/7-sho-galago-candy-rain-ep\/audio-project.txt",
 		"oF": 0
 		},
-	"\/content\/audio-projects\/5-sho-galago-candy-rain-ep\/shogalago.jpg": {
+	"\/content\/audio-projects\/7-sho-galago-candy-rain-ep\/shogalago.jpg": {
 		"ft": 16384,
 		"iS": 55252,
 		"oA": 0,
-		"oAP": "\/content\/audio-projects\/5-sho-galago-candy-rain-ep\/shogalago.jpg",
+		"oAP": "\/content\/audio-projects\/7-sho-galago-candy-rain-ep\/shogalago.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/audio-projects\/6-the-nouns-gtwtw\/audio-project.txt": {
+	"\/content\/audio-projects\/8-the-nouns-gtwtw\/audio-project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/audio-projects\/6-the-nouns-gtwtw\/audio-project.txt",
+		"oAP": "\/content\/audio-projects\/8-the-nouns-gtwtw\/audio-project.txt",
 		"oF": 0
 		},
-	"\/content\/audio-projects\/6-the-nouns-gtwtw\/nouns.jpg": {
+	"\/content\/audio-projects\/8-the-nouns-gtwtw\/nouns.jpg": {
 		"ft": 16384,
 		"iS": 86185,
 		"oA": 0,
-		"oAP": "\/content\/audio-projects\/6-the-nouns-gtwtw\/nouns.jpg",
+		"oAP": "\/content\/audio-projects\/8-the-nouns-gtwtw\/nouns.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/audio-projects\/7-wrs-holy-virgin\/audio-project.txt": {
+	"\/content\/audio-projects\/9-wrs-holy-virgin\/audio-project.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/audio-projects\/7-wrs-holy-virgin\/audio-project.txt",
+		"oAP": "\/content\/audio-projects\/9-wrs-holy-virgin\/audio-project.txt",
 		"oF": 0
 		},
-	"\/content\/audio-projects\/7-wrs-holy-virgin\/wrs.jpg": {
+	"\/content\/audio-projects\/9-wrs-holy-virgin\/wrs.jpg": {
 		"ft": 16384,
 		"iS": 250733,
 		"oA": 0,
-		"oAP": "\/content\/audio-projects\/7-wrs-holy-virgin\/wrs.jpg",
+		"oAP": "\/content\/audio-projects\/9-wrs-holy-virgin\/wrs.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -10281,6 +10311,24 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/thumbs\/audio-projects\/an-empty-room-unbirth-ep\/unbirth-200x200.jpg": {
+		"ft": 16384,
+		"iS": 9476,
+		"oA": 0,
+		"oAP": "\/thumbs\/audio-projects\/an-empty-room-unbirth-ep\/unbirth-200x200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/audio-projects\/an-empty-room-unbirth-ep\/unbirth-75x75.jpg": {
+		"ft": 16384,
+		"iS": 2339,
+		"oA": 0,
+		"oAP": "\/thumbs\/audio-projects\/an-empty-room-unbirth-ep\/unbirth-75x75.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/thumbs\/audio-projects\/obsession-vtorj-fakel\/obsession-200x200.jpg": {
 		"ft": 16384,
 		"iS": 7911,
@@ -10466,6 +10514,24 @@
 		"iS": 3632,
 		"oA": 0,
 		"oAP": "\/thumbs\/audio-projects\/you-might-think-we-re-sharks-firecracker-2-0\/sharks-75x75.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/audio-projects\/you-might-think-we-re-sharks-summer-moon\/sharks_live-200x200.jpg": {
+		"ft": 16384,
+		"iS": 14190,
+		"oA": 0,
+		"oAP": "\/thumbs\/audio-projects\/you-might-think-we-re-sharks-summer-moon\/sharks_live-200x200.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/audio-projects\/you-might-think-we-re-sharks-summer-moon\/sharks_live-75x75.jpg": {
+		"ft": 16384,
+		"iS": 3355,
+		"oA": 0,
+		"oAP": "\/thumbs\/audio-projects\/you-might-think-we-re-sharks-summer-moon\/sharks_live-75x75.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100

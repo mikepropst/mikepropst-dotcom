@@ -2,14 +2,14 @@
   background: $mid-gray;
   color: #fff;
   height: 60px;
-  @include cf();
+  @include clearfix();
   &__inner {
     @include center();
   }
   &__title {
-    @include col(12/12);
+    @include column(12/12);
     @media #{$large-viewport} {
-      @include col(9/12);
+      @include column(9/12);
     }
 
   }
@@ -25,10 +25,10 @@
   &__nav {
     height: 60px;
     background: $mid-gray;
-    @include col(12/12);
+    @include column(12/12);
     margin-bottom: $padding-base;
     @media #{$large-viewport} {
-      @include col(3/12);
+      @include column(3/12);
       margin-bottom: 0;
     }
     ul {

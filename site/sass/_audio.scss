@@ -4,25 +4,44 @@
 
 .audio-project {
   @include clearfix();
-  margin-bottom: $padding-large;
+  box-sizing: border-box;
+	background: #fff;
+	margin-bottom: $padding-base;
+	padding: $padding-base 40px;
+	box-shadow: 0 0 6px rgba($mid-gray,0.4);
+  h4 {
+    @extend .projthumb__title;
+    text-align: left;
+    margin-bottom: $padding-base;
+  }
   &__image {
-    @include column('1/4');
-    padding-top: $padding-base*2;
+    @include column(3/12);
   }
   &__info {
-    @include column('3/4');
+    @include column(9/12);
   }
   &__tags {
-    margin: 0 0 $padding-base;
+    margin: 0;
     padding: 0;
     li {
+      list-style: none;
       display: inline-block;
+      padding: $padding-base/3 $padding-base;
+      margin-right: $padding-base/2;
+      background: $link-color-work;
       color: #fff;
-      background: #999;
-      padding: .24em .5em;
+      border-radius: 2px;
     }
   }
-  &__listen {
-    margin-top: $padding-base;
+  &__listen,
+  p {
+    font-size: 1.1em;
+    line-height: 1.5em;
+  }
+  a {
+    color: $link-color-work;
+    &:hover {
+      color: lighten($link-color-work,20%);
+    }
   }
 }

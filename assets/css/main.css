@@ -1,137 +1,4 @@
 @charset "UTF-8";
-/*  Syntax Quick Reference
-  --------------------------
-  column($ratios: 1, $offset: 0, $cycle: 0, $uncycle: 0, $gutter: $jeet-gutter)
-  span($ratio: 1, $offset: 0)
-  shift($ratios: 0, $col_or_span: column, $gutter: $jeet-gutter)
-  unshift()
-  edit()
-  center($max_width: 1410px, $pad: 0)
-  stack($pad: 0, $align: false)
-  unstack()
-  align($direction: both)
-  cf()
-*/
-/**
- * Grid settings.
- * All values are defaults and can therefore be easily overidden.
- */
-/**
- * List functions courtesy of the wonderful folks at Team Sass.
- * Check out their awesome grid: Singularity.
- */
-/**
- * Get  percentage from a given ratio.
- * @param {number} [$ratio=1] - The column ratio of the element.
- * @returns {number} - The percentage value.
- */
-/**
- * Work out the column widths based on the ratio and gutter sizes.
- * @param {number} [$ratios=1] - The column ratio of the element.
- * @param {number} [$gutter=$jeet-gutter] - The gutter for the column.
- * @returns {list} $width $gutter - A list containing the with and gutter for the element.
- */
-/**
- * Get the set layout direction for the project.
- * @returns {string} $direction - The layout direction.
- */
-/**
- * Replace a specified list value with a new value (uses built in set-nth() if available)
- * @param {list} $list - The list of values you want to alter.
- * @param {number} $index - The index of the list item you want to replace.
- * @param {*} $value - The value you want to replace $index with.
- * @returns {list} $list - The list with the value replaced or removed.
- * @warn if an invalid index is supplied.
- */
-/**
- * Reverse a list (progressively enhanced for Sass 3.3)
- * @param {list} $list - The list of values you want to reverse.
- * @returns {list} $result - The reversed list.
- */
-/**
- * Get the opposite direction to a given value.
- * @param {string} $dir - The direction you want the opposite of.
- * @returns {string} - The opposite direction to $dir.
- * @warn if an incorrect string is provided.
- */
-/**
- * Style an element as a column with a gutter.
- * @param {number} [$ratios=1] - A width relative to its container as a fraction.
- * @param {number} [$offset=0] - A offset specified as a fraction (see $ratios).
- * @param {number} [$cycle=0] - Easily create an nth column grid where $cycle equals the number of columns.
- * @param {number} [$uncycle=0] - Undo a previous cycle value to allow for a new one.
- * @param {number} [$gutter=$jeet-gutter] - Specify the gutter width as a percentage of the containers width.
- */
-/**
- * An alias for the column mixin.
- * @param [$args...] - All arguments get passed through to column().
- */
-/**
- * Get the width of a column and nothing else.
- * @param {number} [$ratios=1] - A width relative to its container as a fraction.
- * @param {number} [$gutter=$jeet-gutter] - Specify the gutter width as a percentage of the containers width.
- */
-/**
- * Get the gutter size of a column and nothing else.
- * @param {number} [ratios=1] - A width relative to its container as a fraction.
- * @param {number} [gutter=jeet.gutter] - Specify the gutter width as a percentage of the containers width.
- */
-/**
- * An alias for the column-width function.
- * @param [$args...] - All arguments get passed through to column().
- */
-/**
- * An alias for the column-gutter function.
- * @param [$args...] - All arguments get passed through to column().
- */
-/**
- * Style an element as a column without any gutters for a seamless row.
- * @param {number} [$ratios=1] - A width relative to its container as a fraction.
- * @param {number} [$offset=0] - A offset specified as a fraction (see $ratios).
- * @param {number} [cycle=0] - Easily create an nth column grid where cycle equals the number of columns.
- * @param {number} [uncycle=0] - Undo a previous cycle value to allow for a new one.
- */
-/**
- * Reorder columns without altering the HTML.
- * @param {number} [$ratios=0] - Specify how far along you want the element to move.
- * @param {string} [$col-or-span=column] - Specify whether the element has a gutter or not.
- * @param {number} [$gutter=$jeet-gutter] - Specify the gutter width as a percentage of the containers width.
- */
-/**
- * Reset an element that has had shift() applied to it.
- */
-/**
- * View the grid and its layers for easy debugging.
- * @param {string} [$color=black] - The background tint applied.
- * @param {boolean} [$important=false] - Whether to apply the style as !important.
- */
-/**
- *  Alias for edit().
- */
-/**
- * Horizontally center an element.
- * @param {number} [$max-width=1410px] - The max width the element can be.
- * @param {number} [$pad=0] - Specify the element's left and right padding.
- */
-/**
- * Uncenter an element.
- */
-/**
- * Stack an element so that nothing is either side of it.
- * @param {number} [$pad=0] - Specify the element's left and right padding.
- * @param {boolean/string} [$align=false] - Specify the text align for the element.
- */
-/**
- * Unstack an element.
- */
-/**
- * Center an element on either or both axes.
- * @requires A parent container with relative positioning.
- * @param {string} [$direction=both] - Specify which axes to center the element on.
- */
-/**
- * Apply a clearfix to an element.
- */
 body {
   background: #E5E5E5;
   color: #4A4A4A; }
@@ -160,7 +27,6 @@ body {
   width: 100%; }
 
 .main {
-  *zoom: 1;
   width: auto;
   max-width: 960px;
   float: none;
@@ -170,13 +36,11 @@ body {
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 2.4em; }
-  .main:before, .main:after {
+  .main::after {
     content: '';
-    display: table; }
-  .main:after {
+    display: table;
     clear: both; }
   .main--project {
-    *zoom: 1;
     width: auto;
     max-width: 980px;
     float: none;
@@ -185,13 +49,11 @@ body {
     margin-left: auto;
     padding-left: 0;
     padding-right: 0; }
-    .main--project:before, .main--project:after {
+    .main--project::after {
       content: '';
-      display: table; }
-    .main--project:after {
+      display: table;
       clear: both; }
   .main--blogpost {
-    *zoom: 1;
     width: auto;
     max-width: 980px;
     float: none;
@@ -200,13 +62,11 @@ body {
     margin-left: auto;
     padding-left: 0;
     padding-right: 0; }
-    .main--blogpost:before, .main--blogpost:after {
+    .main--blogpost::after {
       content: '';
-      display: table; }
-    .main--blogpost:after {
+      display: table;
       clear: both; }
   .main--about {
-    *zoom: 1;
     width: auto;
     max-width: 980px;
     float: none;
@@ -215,24 +75,21 @@ body {
     margin-left: auto;
     padding-left: 0;
     padding-right: 0; }
-    .main--about:before, .main--about:after {
+    .main--about::after {
       content: '';
-      display: table; }
-    .main--about:after {
+      display: table;
       clear: both; }
 
 .full-content {
-  *zoom: 1;
   float: left;
   clear: none;
   text-align: inherit;
   width: 100%;
   margin-left: 0%;
   margin-right: 3%; }
-  .full-content:before, .full-content:after {
+  .full-content::after {
     content: '';
-    display: table; }
-  .full-content:after {
+    display: table;
     clear: both; }
   .full-content:last-child {
     margin-right: 0%; }
@@ -263,9 +120,8 @@ body {
       color: #429DE3; }
 
 .nextprev {
-  *zoom: 1;
   width: auto;
-  max-width: 1410px;
+  max-width: 1440px;
   float: none;
   display: block;
   margin-right: auto;
@@ -273,13 +129,11 @@ body {
   padding-left: 0;
   padding-right: 0;
   padding: 2.4em; }
-  .nextprev:before, .nextprev:after {
+  .nextprev::after {
     content: '';
-    display: table; }
-  .nextprev:after {
+    display: table;
     clear: both; }
   .nextprev__prev, .nextprev__totop, .nextprev__next {
-    *zoom: 1;
     float: left;
     clear: none;
     text-align: inherit;
@@ -287,10 +141,9 @@ body {
     margin-left: 0%;
     margin-right: 3%;
     text-align: center; }
-    .nextprev__prev:before, .nextprev__prev:after, .nextprev__totop:before, .nextprev__totop:after, .nextprev__next:before, .nextprev__next:after {
+    .nextprev__prev::after, .nextprev__totop::after, .nextprev__next::after {
       content: '';
-      display: table; }
-    .nextprev__prev:after, .nextprev__totop:after, .nextprev__next:after {
+      display: table;
       clear: both; }
     .nextprev__prev:last-child, .nextprev__totop:last-child, .nextprev__next:last-child {
       margin-right: 0%; }
@@ -298,56 +151,48 @@ body {
 .header {
   background: #4A4A4A;
   color: #fff;
-  height: 60px;
-  *zoom: 1; }
-  .header:before, .header:after {
+  height: 60px; }
+  .header::after {
     content: '';
-    display: table; }
-  .header:after {
+    display: table;
     clear: both; }
   .header__inner {
-    *zoom: 1;
     width: auto;
-    max-width: 1410px;
+    max-width: 1440px;
     float: none;
     display: block;
     margin-right: auto;
     margin-left: auto;
     padding-left: 0;
     padding-right: 0; }
-    .header__inner:before, .header__inner:after {
+    .header__inner::after {
       content: '';
-      display: table; }
-    .header__inner:after {
+      display: table;
       clear: both; }
   .header__title {
-    *zoom: 1;
     float: left;
     clear: none;
     text-align: inherit;
     width: 100%;
     margin-left: 0%;
     margin-right: 3%; }
-    .header__title:before, .header__title:after {
+    .header__title::after {
       content: '';
-      display: table; }
-    .header__title:after {
+      display: table;
       clear: both; }
     .header__title:last-child {
       margin-right: 0%; }
     @media screen and (min-width: 40em) {
       .header__title {
-        *zoom: 1;
         float: left;
         clear: none;
         text-align: inherit;
         width: 74.25%;
         margin-left: 0%;
         margin-right: 3%; }
-        .header__title:before, .header__title:after {
+        .header__title::after {
           content: '';
-          display: table; }
-        .header__title:after {
+          display: table;
           clear: both; }
         .header__title:last-child {
           margin-right: 0%; } }
@@ -361,7 +206,6 @@ body {
   .header__nav {
     height: 60px;
     background: #4A4A4A;
-    *zoom: 1;
     float: left;
     clear: none;
     text-align: inherit;
@@ -369,16 +213,14 @@ body {
     margin-left: 0%;
     margin-right: 3%;
     margin-bottom: 1em; }
-    .header__nav:before, .header__nav:after {
+    .header__nav::after {
       content: '';
-      display: table; }
-    .header__nav:after {
+      display: table;
       clear: both; }
     .header__nav:last-child {
       margin-right: 0%; }
     @media screen and (min-width: 40em) {
       .header__nav {
-        *zoom: 1;
         float: left;
         clear: none;
         text-align: inherit;
@@ -386,10 +228,9 @@ body {
         margin-left: 0%;
         margin-right: 3%;
         margin-bottom: 0; }
-        .header__nav:before, .header__nav:after {
+        .header__nav::after {
           content: '';
-          display: table; }
-        .header__nav:after {
+          display: table;
           clear: both; }
         .header__nav:last-child {
           margin-right: 0%; } }
@@ -898,23 +739,20 @@ img.mfp-img {
   font-size: 1.25em; }
 
 .projects-list {
-  *zoom: 1;
   width: auto;
-  max-width: 1410px;
+  max-width: 1440px;
   float: none;
   display: block;
   margin-right: auto;
   margin-left: auto;
   padding-left: 0;
   padding-right: 0; }
-  .projects-list:before, .projects-list:after {
+  .projects-list::after {
     content: '';
-    display: table; }
-  .projects-list:after {
+    display: table;
     clear: both; }
 
 .projthumb {
-  *zoom: 1;
   float: left;
   clear: none;
   text-align: inherit;
@@ -922,27 +760,28 @@ img.mfp-img {
   margin-left: 0%;
   margin-right: 3%;
   padding-bottom: 2.4em; }
-  .projthumb:before, .projthumb:after {
+  .projthumb::after {
     content: '';
-    display: table; }
-  .projthumb:after {
+    display: table;
     clear: both; }
   .projthumb:last-child {
     margin-right: 0%; }
   @media screen and (min-width: 40em) {
     .projthumb {
-      *zoom: 1;
       float: left;
       clear: none;
       text-align: inherit;
       width: 48.5%;
       margin-left: 0%;
       margin-right: 3%; }
-      .projthumb:before, .projthumb:after {
+      .projthumb::after {
         content: '';
-        display: table; }
-      .projthumb:after {
+        display: table;
         clear: both; }
+      .projthumb:nth-child(n) {
+        margin-right: 3%;
+        float: left;
+        clear: none; }
       .projthumb:nth-child(2n) {
         margin-right: 0%;
         float: right; }
@@ -950,12 +789,12 @@ img.mfp-img {
         clear: both; } }
   .projthumb__image {
     display: block;
-    border: 1px solid #cacaca; }
+    border: 1px solid #cac9c9; }
     .projthumb__image:hover {
       border-color: #2C6A99; }
   .projthumb img {
     max-width: 100%; }
-  .projthumb__title {
+  .projthumb__title, .audio-project h4 {
     text-align: center;
     font-size: 1.2em;
     font-family: "Montserrat", sans-serif;
@@ -989,25 +828,22 @@ img.mfp-img {
     max-height: 80px; }
 
 .project__header {
-  *zoom: 1;
   width: auto;
-  max-width: 1410px;
+  max-width: 1440px;
   float: none;
   display: block;
   margin-right: auto;
   margin-left: auto;
   padding-left: 40px;
   padding-right: 40px; }
-  .project__header:before, .project__header:after {
+  .project__header::after {
     content: '';
-    display: table; }
-  .project__header:after {
+    display: table;
     clear: both; }
 
 .project__meta {
-  *zoom: 1;
   width: auto;
-  max-width: 1410px;
+  max-width: 1440px;
   float: none;
   display: block;
   margin-right: auto;
@@ -1017,10 +853,9 @@ img.mfp-img {
   margin: 0 0 2.4em 0;
   background: #429DE3;
   color: #fff; }
-  .project__meta:before, .project__meta:after {
+  .project__meta::after {
     content: '';
-    display: table; }
-  .project__meta:after {
+    display: table;
     clear: both; }
   .project__meta table {
     font-family: "Montserrat", sans-serif;
@@ -1039,19 +874,17 @@ img.mfp-img {
 
 .project__content {
   font-size: 1.1em;
-  *zoom: 1;
   width: auto;
-  max-width: 1410px;
+  max-width: 1440px;
   float: none;
   display: block;
   margin-right: auto;
   margin-left: auto;
   padding-left: 40px;
   padding-right: 40px; }
-  .project__content:before, .project__content:after {
+  .project__content::after {
     content: '';
-    display: table; }
-  .project__content:after {
+    display: table;
     clear: both; }
   .project__content p {
     line-height: 1.5em;
@@ -1068,9 +901,8 @@ img.mfp-img {
       color: #429DE3; }
 
 .project__imagesheader {
-  *zoom: 1;
   width: auto;
-  max-width: 1410px;
+  max-width: 1440px;
   float: none;
   display: block;
   margin-right: auto;
@@ -1078,29 +910,26 @@ img.mfp-img {
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 2.4em; }
-  .project__imagesheader:before, .project__imagesheader:after {
+  .project__imagesheader::after {
     content: '';
-    display: table; }
-  .project__imagesheader:after {
+    display: table;
     clear: both; }
   .project__imagesheader h3 {
     font-size: 2em;
     margin-bottom: 1em; }
 
 .project__images-block {
-  *zoom: 1;
   width: auto;
-  max-width: 1410px;
+  max-width: 1440px;
   float: none;
   display: block;
   margin-right: auto;
   margin-left: auto;
   padding-left: 40px;
   padding-right: 40px; }
-  .project__images-block:before, .project__images-block:after {
+  .project__images-block::after {
     content: '';
-    display: table; }
-  .project__images-block:after {
+    display: table;
     clear: both; }
 
 .project__image-row {
@@ -1108,18 +937,20 @@ img.mfp-img {
   box-shadow: 0 0 8px rgba(74, 74, 74, 0.4); }
   @media screen and (min-width: 40em) {
     .project__image-row {
-      *zoom: 1;
       float: left;
       clear: none;
       text-align: inherit;
       width: 48.5%;
       margin-left: 0%;
       margin-right: 3%; }
-      .project__image-row:before, .project__image-row:after {
+      .project__image-row::after {
         content: '';
-        display: table; }
-      .project__image-row:after {
+        display: table;
         clear: both; }
+      .project__image-row:nth-child(n) {
+        margin-right: 3%;
+        float: left;
+        clear: none; }
       .project__image-row:nth-child(2n) {
         margin-right: 0%;
         float: right; }
@@ -1131,7 +962,7 @@ img.mfp-img {
   .project__image img {
     max-width: 100%;
     height: auto;
-    border: 1px solid #cacaca; }
+    border: 1px solid #cac9c9; }
     .project__image img:hover {
       border-color: #429DE3; }
 
@@ -1167,7 +998,6 @@ img.mfp-img {
     color: #429DE3; }
 
 .full-content--blog {
-  *zoom: 1;
   width: auto;
   max-width: 900;
   float: none;
@@ -1176,10 +1006,9 @@ img.mfp-img {
   margin-left: auto;
   padding-left: 0;
   padding-right: 0; }
-  .full-content--blog:before, .full-content--blog:after {
+  .full-content--blog::after {
     content: '';
-    display: table; }
-  .full-content--blog:after {
+    display: table;
     clear: both; }
 
 .blog__title {
@@ -1226,19 +1055,17 @@ img.mfp-img {
   padding-bottom: 2.4em; }
 
 .post {
-  *zoom: 1;
   width: auto;
-  max-width: 1410px;
+  max-width: 1440px;
   float: none;
   display: block;
   margin-right: auto;
   margin-left: auto;
   padding-left: 40px;
   padding-right: 40px; }
-  .post:before, .post:after {
+  .post::after {
     content: '';
-    display: table; }
-  .post:after {
+    display: table;
     clear: both; }
   .post__title {
     font-family: "Montserrat", sans-serif;
@@ -1297,19 +1124,17 @@ img.mfp-img {
   padding-bottom: 2.4em; }
 
 .aboutpage {
-  *zoom: 1;
   width: auto;
-  max-width: 1410px;
+  max-width: 1440px;
   float: none;
   display: block;
   margin-right: auto;
   margin-left: auto;
   padding-left: 40px;
   padding-right: 40px; }
-  .aboutpage:before, .aboutpage:after {
+  .aboutpage::after {
     content: '';
-    display: table; }
-  .aboutpage:after {
+    display: table;
     clear: both; }
   .aboutpage__title {
     font-family: "Montserrat", sans-serif;
@@ -1317,3 +1142,62 @@ img.mfp-img {
   .aboutpage__content {
     font-size: 1.1em;
     line-height: 1.5em; }
+
+.audio-project {
+  box-sizing: border-box;
+  background: #fff;
+  margin-bottom: 1em;
+  padding: 1em 40px;
+  box-shadow: 0 0 6px rgba(74, 74, 74, 0.4); }
+  .audio-project::after {
+    content: '';
+    display: table;
+    clear: both; }
+  .audio-project h4 {
+    text-align: left;
+    margin-bottom: 1em; }
+  .audio-project__image {
+    float: left;
+    clear: none;
+    text-align: inherit;
+    width: 22.75%;
+    margin-left: 0%;
+    margin-right: 3%; }
+    .audio-project__image::after {
+      content: '';
+      display: table;
+      clear: both; }
+    .audio-project__image:last-child {
+      margin-right: 0%; }
+  .audio-project__info {
+    float: left;
+    clear: none;
+    text-align: inherit;
+    width: 74.25%;
+    margin-left: 0%;
+    margin-right: 3%; }
+    .audio-project__info::after {
+      content: '';
+      display: table;
+      clear: both; }
+    .audio-project__info:last-child {
+      margin-right: 0%; }
+  .audio-project__tags {
+    margin: 0;
+    padding: 0; }
+    .audio-project__tags li {
+      list-style: none;
+      display: inline-block;
+      padding: 0.3333333333em 1em;
+      margin-right: 0.5em;
+      background: #2C6A99;
+      color: #fff;
+      border-radius: 2px; }
+  .audio-project__listen,
+  .audio-project p {
+    font-size: 1.1em;
+    line-height: 1.5em; }
+  .audio-project a {
+    color: #2C6A99; }
+    .audio-project a:hover {
+      color: #5b9ed0; }

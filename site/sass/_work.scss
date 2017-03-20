@@ -15,9 +15,9 @@
 }
 
 .projthumb {
-	@include col(12/12);
+	@include column(12/12);
 	@media #{$large-viewport} {
-		@include col(6/12,$cycle:2);
+		@include column(6/12,$cycle:2);
 	}
 	padding-bottom: $padding-lg;
 	&__image {
@@ -130,7 +130,7 @@
 	}
 	&__image-row {
 		@media #{$large-viewport} {
-			@include col(6/12,$cycle:2);
+			@include column(6/12,$cycle:2);
 		}
 		margin-bottom: $padding-lg;
 		box-shadow: 0 0 8px rgba($mid-gray,.4);
