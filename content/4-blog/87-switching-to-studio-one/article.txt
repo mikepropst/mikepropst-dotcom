@@ -10,7 +10,7 @@ Backstory: my Mac is starting to become inoperable due to the longstanding need 
 
 So, I pulled out some old You Might Think We're Sharks base tracks from our last session that never got overdubs, and finished ["Summer Moon"](https://soundcloud.com/soundofsharks/summer-moon) in Presonus Studio One, which I've been threatening to switch to for a while.
 
-It went well, so I recorded An Empty Room's new one on it as well. There are some tradeoffs, but overall it's just a better experience and I wish I'd done it sooner. One thing I missed from Cubase is that the music creation and mixing portions were well integrated. In recent years since dropping Cubase, I tend to compose in Ableton, then finalize and mix in Pro Tools. In Studio One, thought it's obviously not the same as Ableton, I'm able to integrate composition, tracking, and mixing pretty well. That works for our workflow since we'll add synths and samples in the mix process after doing the tracking.
+It went well, so I recorded An Empty Room's new one on it as well. There are some tradeoffs, but overall it's just a better experience and I wish I'd done it sooner. One thing I missed from Cubase is that the music creation and mixing portions were well integrated. In recent years since dropping Cubase, I tend to compose in Ableton, then finalize and mix in Pro Tools. In Studio One, though it's obviously not the same as Ableton, I'm able to integrate composition, tracking, and mixing pretty well. That works for our workflow since we'll add synths and samples in the mix process after doing the tracking.
 
 **The Pros:**
 

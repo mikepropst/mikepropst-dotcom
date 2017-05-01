@@ -1,0 +1,25 @@
+Title: Juicero Teardown
+
+----
+
+Text: An engineer shows, from an engineer's perspective, what we already know from a market and common-sense standpoint: The Juicero is idiotic.
+
+----
+
+Summary: 
+
+----
+
+Tags: marketing,engineering
+
+----
+
+Posttype: link
+
+----
+
+Postlink: https://blog.bolt.io/heres-why-juicero-s-press-is-so-expensive-6add74594e50
+
+----
+
+Date: 2017-05-01
