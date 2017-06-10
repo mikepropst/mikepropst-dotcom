@@ -1122,6 +1122,11 @@ img.mfp-img {
 .main--about {
   background: #fff;
   padding-bottom: 2.4em; }
+  .main--about img {
+    max-width: 200px;
+    float: left;
+    margin-right: 1em;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.4); }
 
 .aboutpage {
   width: auto;
@@ -1201,3 +1206,67 @@ img.mfp-img {
     color: #2C6A99; }
     .audio-project a:hover {
       color: #5b9ed0; }
+
+.main--resume {
+  background: #fff; }
+
+.resume {
+  font-size: 18px;
+  line-height: 1.6em; }
+  .resume__header {
+    width: auto;
+    max-width: 1440px;
+    float: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 40px;
+    padding-right: 40px; }
+    .resume__header::after {
+      content: '';
+      display: table;
+      clear: both; }
+  .resume__download {
+    margin-bottom: 1em;
+    font-size: 18px; }
+    @media screen and (min-width: 40em) {
+      .resume__download {
+        float: right;
+        margin-bottom: 0; } }
+    .resume__download a {
+      color: #76C51B;
+      text-decoration: none; }
+      .resume__download a:hover {
+        color: #a8e95d; }
+  .resume__intro {
+    margin-top: 1em;
+    background: #E5E5E5;
+    padding: 1em; }
+  .resume__content {
+    width: auto;
+    max-width: 1440px;
+    float: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 40px;
+    padding-right: 40px; }
+    .resume__content::after {
+      content: '';
+      display: table;
+      clear: both; }
+  .resume h2 {
+    color: #fff;
+    background: #4A4A4A;
+    margin: 2.4em -40px 0;
+    padding: 6px 40px; }
+  .resume h3 {
+    margin-top: 2.4em; }
+  .resume h4 {
+    margin-bottom: 0; }
+  .resume h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #7d7d7d; }
+  .resume ul {
+    margin-top: 0; }

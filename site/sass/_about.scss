@@ -8,6 +8,12 @@
 .main--about {
 	background: #fff;
 	padding-bottom: $padding-lg;
+	img {
+		max-width: 200px;
+		float: left;
+		margin-right: $padding-base;
+		box-shadow: 0 0 8px rgba(0,0,0,0.4);
+	}
 }
 
 .aboutpage {

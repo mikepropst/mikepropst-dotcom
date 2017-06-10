@@ -1,0 +1,54 @@
+.main--resume {
+	background: #fff;
+}
+
+.resume {
+  font-size: 18px;
+  line-height: 1.6em;
+  &__header {
+    @include center($pad:40px);
+  }
+  &__download {
+    margin-bottom: 1em;
+    @media #{$large-viewport} {
+      float: right;
+      margin-bottom: 0;
+    }
+    font-size: 18px;
+    a {
+      color: $link-color-about;
+      text-decoration: none;
+      &:hover {
+        color: lighten($link-color-about,20%);
+      }
+    }
+  }
+  &__intro {
+    margin-top: $padding-base;
+    background: $body-bg-color;
+    padding: $padding-base;
+  }
+  &__content {
+    @include center($pad:40px);
+  }
+  h2 {
+    color: #fff;
+    background: $mid-gray;
+    margin: $padding-lg -40px 0;
+    padding: 6px 40px;
+  }
+  h3 {
+    margin-top: $padding-lg;
+  }
+  h4 {
+    margin-bottom: 0;
+  }
+  h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: lighten($mid-gray,20%);
+  }
+  ul {
+    margin-top: 0;
+  }
+}

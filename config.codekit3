@@ -153,6 +153,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/me.jpg": {
+		"ft": 16384,
+		"iS": 36654,
+		"oA": 0,
+		"oAP": "\/assets\/images\/me.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/pencil.jpg": {
 		"ft": 16384,
 		"iS": 114913,
@@ -171,6 +181,12 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/assets\/mpropst_resume_06-2017.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/mpropst_resume_06-2017.pdf",
+		"oF": 0
 		},
 	"\/content\/1-about\/about.jpg": {
 		"ft": 16384,
@@ -2472,6 +2488,12 @@
 		"oAP": "\/content\/4-blog\/87-switching-to-studio-one\/article.txt",
 		"oF": 0
 		},
+	"\/content\/4-blog\/88-juicero-teardown\/article.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/4-blog\/88-juicero-teardown\/article.txt",
+		"oF": 0
+		},
 	"\/content\/4-blog\/9-harrison-mixbus-first-impressions\/article.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -2681,10 +2703,10 @@
 		"oAP": "\/content\/home\/home.txt",
 		"oF": 0
 		},
-	"\/content\/resume\/default.txt": {
+	"\/content\/resume\/resume.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/content\/resume\/default.txt",
+		"oAP": "\/content\/resume\/resume.txt",
 		"oF": 0
 		},
 	"\/content\/site.txt": {
@@ -8738,6 +8760,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/site\/sass\/_resume.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/site\/css\/_resume.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/site\/sass\/_topbar.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -8933,6 +8968,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/projects.php",
+		"oF": 0
+		},
+	"\/site\/templates\/resume.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/templates\/resume.php",
 		"oF": 0
 		},
 	"\/thumbs\/.gitkeep": {
@@ -10205,11 +10246,41 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/thumbs\/_plugins\/oembed\/80ec71b3365308bc067fc467e969c48c.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/thumbs\/_plugins\/oembed\/80ec71b3365308bc067fc467e969c48c.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/_plugins\/oembed\/97c2b33043cc812572bc478f692d45f5.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/thumbs\/_plugins\/oembed\/97c2b33043cc812572bc478f692d45f5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/thumbs\/_plugins\/oembed\/d41d8cd98f00b204e9800998ecf8427e.": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/thumbs\/_plugins\/oembed\/d41d8cd98f00b204e9800998ecf8427e",
 		"oF": 0
+		},
+	"\/thumbs\/_plugins\/oembed\/dcb8935fdb625b2c59a297eee9f32db8.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/thumbs\/_plugins\/oembed\/dcb8935fdb625b2c59a297eee9f32db8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/about\/about-75x75.jpg": {
 		"ft": 16384,
