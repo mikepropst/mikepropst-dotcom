@@ -36,6 +36,13 @@ Text: <div class="resume__intro">UX professional with more than ten years' exper
 
 ## Clients & Experience
 
+### Stratfor
+#### Austin, TX
+##### UX Consultant *2017*
+* Provide heuristic evaluations of software applications and recommendations for improvements
+* Work with product teams to establish discovery and testing plans for validation
+* Design HCD workshops to challenge assumptions and develop a plan forward
+
 ###Palo Alto Software
 ####Eugene, OR
 ##### Lead UX Designer *2015-2017*
