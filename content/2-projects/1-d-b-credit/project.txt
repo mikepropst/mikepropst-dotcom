@@ -29,9 +29,9 @@ The personas (click for larger):
 
 From the research, we created personas and ran a number of workshops. From affinity maps to design studios, some handled remotely with British product teams (often using the Mural remote whiteboard tool), we completed a number of rapid cycles of design and validation with both paper prototypes and interactive Axure prototypes at multiple fidelity levels. The rapid cycle process was influenced by Luma Institute training from Maya and by *Lean UX,* and it was proven successful by a [smaller upgrade to DNBi](http://mikepropst.com/projects/dnbi-credit-manager) a few months earlier.
 
-Research and validation determined that though the numbers and means to achieving customer happiness might be complex, at the core there were really only a few use cases. Customers wanted to easily find companies to do research, add them to their portfolio, and monitor their portfolio of companies in a proactive, "smart" way. Thus, early on we were able to throw out complexity that wasn't directly related to those tasks — and throw out the complexity related to other tasks that customers really didn't find valuable.
+Research and validation determined that though the numbers and means to achieving customer happiness might be complex, at the core there were really only a few use cases. Customers wanted to (a) easily find companies to do research, (b) add them to their portfolio, and (c) monitor their portfolio of companies in a proactive, "smart" way. Thus, early on we were able to throw out complexity that wasn't directly related to those tasks — and throw out the complexity related to other tasks that customers really didn't find valuable. Any new functionality we did add was based on those criteria as well; for example, we began showing credit scores as trends instead of snapshots. Thanks to that seemingly small thing, a user test ended with a fist banging on the desk and a customer shouting "Yes!"
 
-As final UI designs were completed, the design team created a style guide as well as customized Bootstrap Less files to deliver to developers to specify colors, spacing, typography and the rest of the visual language.
+As final UI designs were completed, we created a style guide as well as customized Bootstrap Less files to deliver to developers to specify colors, spacing, typography and the rest of the visual language.
 
 #### Results
 D&B Credit would not have been possible without also initiating a cultural change from inside the company. Design thinking and customer centricity permeated most of the product department by the time the software was rolled out. The resulting tool potentially solves more credit risk evaluation problems than any of the numerous little tools it replaces, and does it more elegantly than its mega-predecessor DNBi.
@@ -41,7 +41,7 @@ D&B Credit would not have been possible without also initiating a cultural chang
 
 ----
 
-Roles: Information Architecture,Information Design,User Research,User testing
+Roles: Information Architecture,Information Design,User Research,User testing,Interaction Design,UI Design,Prototyping
 
 ----
 
