@@ -7,7 +7,7 @@
 		"uuidString": "C1003594-3C90-4CDF-A935-2B0DA5A3F8E2"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/.htaccess": {
 		"ft": 8192,
@@ -2492,6 +2492,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/4-blog\/88-juicero-teardown\/article.txt",
+		"oF": 0
+		},
+	"\/content\/4-blog\/89-inline-validation-considered-harmful\/article.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/4-blog\/89-inline-validation-considered-harmful\/article.txt",
 		"oF": 0
 		},
 	"\/content\/4-blog\/9-harrison-mixbus-first-impressions\/article.txt": {
@@ -16430,6 +16436,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",

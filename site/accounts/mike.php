@@ -8,10 +8,11 @@ language: en
 role: admin
 token: 17b3d763b2677d8a32e6296a979e45547396eae9
 history:
+  - >
+    blog/inline-validation-considered-harmful
   - projects/d-b-credit
   - blog/juicero-teardown
   - blog/switching-to-studio-one
   - audio-projects/an-empty-room-unbirth-ep
-  - audio-projects/you-might-think-we-re-sharks-summer-moon
 firstname: ""
 lastname: ""
