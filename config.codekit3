@@ -30,10 +30,10 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/assets\/css\/main-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/assets\/images\/01-webapps.png": {
 		"ft": 32768,
@@ -2516,6 +2516,12 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/content\/4-blog\/90-stealing-your-way-to-original-design-with-dan-mall\/article.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/4-blog\/90-stealing-your-way-to-original-design-with-dan-mall\/article.txt",
+		"oF": 0
 		},
 	"\/content\/4-blog\/api\/blogapi.txt": {
 		"ft": 8192,
@@ -6205,7 +6211,7 @@
 		},
 	"\/site\/accounts\/mike.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/site\/accounts\/mike.php",
 		"oF": 0
 		},
@@ -8839,8 +8845,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/css\/main.css",
-		"oF": 2,
+		"oAP": "\/site\/css\/styles.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -8858,7 +8864,7 @@
 		},
 	"\/site\/snippets\/header.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/site\/snippets\/header.php",
 		"oF": 0
 		},
@@ -8972,7 +8978,7 @@
 		},
 	"\/site\/templates\/projects.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/site\/templates\/projects.php",
 		"oF": 0
 		},

@@ -9,10 +9,10 @@ role: admin
 token: 17b3d763b2677d8a32e6296a979e45547396eae9
 history:
   - >
-    blog/inline-validation-considered-harmful
+    blog/stealing-your-way-to-original-design-with-dan-mall
+  - blog/inline-validation-considered-harmful
   - projects/d-b-credit
   - blog/juicero-teardown
   - blog/switching-to-studio-one
-  - audio-projects/an-empty-room-unbirth-ep
 firstname: ""
 lastname: ""
